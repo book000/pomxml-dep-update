@@ -12,15 +12,5 @@ inputs:
     required: false
     default: ''
 runs:
-  using: composite
-
-  steps:
-    - name: Install dependencies
-      run: |
-        yarn
-      shell: bash
-
-    - name: Compile & Run
-      run: |
-        yarn build --target ${{ inputs.target }} --ignore-packages ${{ inputs.ignore-packages }}
-      shell: bash
+  using: 'node16'
+  main: 'dist/main.js'

@@ -1,8 +1,8 @@
+import core from '@actions/core'
 import axios from 'axios'
 import { XMLBuilder, XMLParser } from 'fast-xml-parser'
 import fs from 'fs'
 import xmlFormat from 'xml-formatter'
-import yargs from 'yargs'
 
 interface Repository {
   id: string
@@ -133,8 +133,8 @@ async function parseMavenMetadata(
   )
 }
 
-async function main(args: any) {
-  const content = fs.readFileSync(args.target, 'utf-8')
+async function main(pomPath: string, ignorePackages: string) {
+  const content = fs.readFileSync(pomPath, 'utf-8')
 
   const pom = await parsePom(content)
 
@@ -144,9 +144,9 @@ async function main(args: any) {
   for (const dependency of pom.dependencies) {
     console.log('[main]', 'Dependency:', JSON.stringify(dependency))
     if (
-      args.ignorePackages.includes(
-        dependency.groupId + '.' + dependency.artifactId
-      )
+      ignorePackages
+        .split(',')
+        .includes(dependency.groupId + '.' + dependency.artifactId)
     ) {
       console.log('[main]', 'This package is ignored.')
       continue
@@ -227,7 +227,7 @@ async function main(args: any) {
     .replace('</project>', '</dependencies></project>')
 
   fs.writeFileSync(
-    args.target,
+    pomPath,
     xmlFormat(xml, {
       collapseContent: true,
     }),
@@ -236,22 +236,7 @@ async function main(args: any) {
 }
 
 ;(async () => {
-  main(
-    yargs
-      .option('target', {
-        description: 'pom.xml path',
-        demandOption: true,
-      })
-      .option('ignore-packages', {
-        description: 'Ignore packages (Comma separated)',
-        type: 'array',
-        coerce: (array) => {
-          if (array === undefined) {
-            return []
-          }
-          return array.flatMap((v: string) => v.split(','))
-        },
-      })
-      .help().argv
-  )
+  const pomPath = core.getInput('pom-path')
+  const ignorePackages = core.getInput('ignore-packages')
+  main(pomPath, ignorePackages)
 })()
