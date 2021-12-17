@@ -15,7 +15,7 @@ This action may cause destructive changes to the existing file (`pom.xml`).
 
 ```yml
 - name: pom.xml Dependencies Updater
-  uses: book000/pomxml-dep-update@v1.0.0
+  uses: book000/pomxml-dep-update@v1.0.1
   with:
     pom-path: pom.xml
     ignore-packages: com.tomacheese.abc,com.tomacheese.def
