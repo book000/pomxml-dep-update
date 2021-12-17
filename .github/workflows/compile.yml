@@ -42,17 +42,9 @@ jobs:
           git config --global user.name "GitHub Action"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-      - name: Is modified
-        id: is-modified
-        run: |
-          git status | grep modified || true
-          echo "::set-output name=modified::`echo $?`"
-
       - name: Create commit & push
         if: ${{ steps.is-modified.outputs.modified == '0' }}
         run: |
-          git add -A
-          git commit -v -m "chore: Compile by GitHub Actions"
-          git push -v
+          git status | grep modified && git add -A && git commit -v -m "chore: Compile by GitHub Actions" && git push -v || true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
