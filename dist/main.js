@@ -1,14 +1,19 @@
-import core from '@actions/core';
-import axios from 'axios';
-import { XMLBuilder, XMLParser } from 'fast-xml-parser';
-import fs from 'fs';
-import xmlFormat from 'xml-formatter';
+"use strict";
+var __importDefault = (this && this.__importDefault) || function (mod) {
+    return (mod && mod.__esModule) ? mod : { "default": mod };
+};
+Object.defineProperty(exports, "__esModule", { value: true });
+const core_1 = __importDefault(require("@actions/core"));
+const axios_1 = __importDefault(require("axios"));
+const fast_xml_parser_1 = require("fast-xml-parser");
+const fs_1 = __importDefault(require("fs"));
+const xml_formatter_1 = __importDefault(require("xml-formatter"));
 const MvnCentralRepository = {
     id: 'mvncentral',
     url: 'https://repo1.maven.org/maven2/',
 };
 async function parsePom(content) {
-    const parser = new XMLParser();
+    const parser = new fast_xml_parser_1.XMLParser();
     const pomXml = parser.parse(content);
     const repositories = pomXml.project.repositories.repository;
     const dependencies = pomXml.project.dependencies.dependency;
@@ -20,7 +25,7 @@ async function parsePom(content) {
 async function existsUrl(url) {
     console.log('[existsUrl]', 'url:', url);
     try {
-        const response = await axios.get(url);
+        const response = await axios_1.default.get(url);
         console.log('[existsUrl]', 'response:', response.status);
         return response.status === 200;
     }
@@ -74,8 +79,8 @@ class MavenMetadata {
 async function parseMavenMetadata(repository, dependency) {
     const url = getMavenMetadataXmlUrl(repository, dependency);
     console.log('[parseMavenMetadata]', 'maven metadata url:', url);
-    const content = await axios.get(url);
-    const parser = new XMLParser({
+    const content = await axios_1.default.get(url);
+    const parser = new fast_xml_parser_1.XMLParser({
         parseTagValue: false,
         parseAttributeValue: false,
     });
@@ -87,7 +92,7 @@ async function parseMavenMetadata(repository, dependency) {
             : null, metadata.metadata.versioning.versions.version);
 }
 async function main(pomPath, ignorePackages) {
-    const content = fs.readFileSync(pomPath, 'utf-8');
+    const content = fs_1.default.readFileSync(pomPath, 'utf-8');
     const pom = await parsePom(content);
     console.log(pom.repositories);
     console.log(pom.dependencies);
@@ -124,7 +129,7 @@ async function main(pomPath, ignorePackages) {
         replaceDep.version = metadata.latestVersion;
         pom.dependencies.splice(pom.dependencies.findIndex((d) => d === dependency), 1, replaceDep);
     }
-    const parser = new XMLParser({
+    const parser = new fast_xml_parser_1.XMLParser({
         preserveOrder: false,
         trimValues: true,
         ignoreAttributes: false,
@@ -139,7 +144,7 @@ async function main(pomPath, ignorePackages) {
     const pomXml = parser.parse(content);
     pomXml.project.repositories = pom.repositories;
     pomXml.project.dependencies = pom.dependencies;
-    const xml = new XMLBuilder({
+    const xml = new fast_xml_parser_1.XMLBuilder({
         preserveOrder: false,
         ignoreAttributes: false,
         attributesGroupName: false,
@@ -155,14 +160,14 @@ async function main(pomPath, ignorePackages) {
         .replace('<repositories>', '<repositories><repository>')
         .replace('<dependencies>', '</repositories><dependencies><dependency>')
         .replace('</project>', '</dependencies></project>');
-    fs.writeFileSync(pomPath, xmlFormat(xml, {
+    fs_1.default.writeFileSync(pomPath, (0, xml_formatter_1.default)(xml, {
         collapseContent: true,
     }), 'utf8');
 }
 ;
 (async () => {
-    const pomPath = core.getInput('pom-path');
-    const ignorePackages = core.getInput('ignore-packages');
+    const pomPath = core_1.default.getInput('pom-path');
+    const ignorePackages = core_1.default.getInput('ignore-packages');
     main(pomPath, ignorePackages);
 })();
 //# sourceMappingURL=main.js.map
