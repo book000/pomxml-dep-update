@@ -1,6 +1,6 @@
 {
   "name": "pomxml-dep-update",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "If there is a newer version of the dependency in pom.xml, rewrite it to the latest version.",
   "main": "dist/index.js",
   "repository": "git@github.com:book000/pomxml-dep-update.git",
