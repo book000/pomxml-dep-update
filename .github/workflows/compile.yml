@@ -45,7 +45,7 @@ jobs:
       - name: Is modified
         id: is-modified
         run: |
-          git status | grep modified
+          git status | grep modified || true
           echo "::set-output name=modified::`echo $?`"
 
       - name: Create commit & push
