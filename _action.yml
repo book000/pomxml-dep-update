@@ -1,0 +1,76 @@
+name: pom.xml Dependencies Updater
+description: If there is a newer version of the dependency in pom.xml, rewrite it to the latest version.
+branding:
+  icon: thumbs-up
+  color: orange
+inputs:
+  pom-path:
+    description: pom.xml path
+    required: true
+  ignore-package:
+    description: Minecraft version
+    required: true
+runs:
+  using: composite
+
+  steps:
+    - name: Create PaperServerTest directory & Chdir
+      run: |
+        mkdir PaperServerTest
+        cd PaperServerTest
+        mkdir plugins
+      shell: bash
+
+    - name: Download latest paper server
+      working-directory: PaperServerTest
+      run: |
+        curl -o paper.jar -L "https://api.tomacheese.com/papermc/${{ inputs.minecraft-version }}/latest"
+        file paper.jar
+        file paper.jar | grep "HTML document" && cat paper.jar || true
+      shell: bash
+
+    - name: Agree to EULA
+      working-directory: PaperServerTest
+      run: echo eula=true> eula.txt
+      shell: bash
+
+    - name: Download CheckPluginEnabling
+      working-directory: PaperServerTest
+      run: |
+        wget -O plugins/CheckPluginEnabling.jar `curl --silent "https://api.github.com/repos/jaoafa/CheckPluginEnabling/releases/latest" | jq -r '.assets[0].browser_download_url'`
+        file plugins/CheckPluginEnabling.jar
+      shell: bash
+
+    - name: Copy jar
+      working-directory: PaperServerTest
+      run: cp ../target/`ls -S ../target | head -n 1` plugins/${{ inputs.plugin-name }}.jar
+      shell: bash
+
+    - name: Start Paper Server
+      working-directory: PaperServerTest
+      run: timeout 600 java -jar paper.jar
+      shell: bash
+
+    - name: Check exists plugins.json
+      working-directory: PaperServerTest
+      run: (test -f plugins.json && echo plugins.json exists) || exit 1
+      shell: bash
+
+    - name: Check enabled plugin from plugins.json
+      working-directory: PaperServerTest
+      run: |
+        cat plugins.json
+        cat plugins.json | jq --arg PLUGIN_NAME ${{ inputs.plugin-name }} --exit-status 'index([$PLUGIN_NAME]) != null'
+      shell: bash
+
+    - name: Check exists exceptions.json
+      working-directory: PaperServerTest
+      run: (test -f exceptions.json && echo exceptions.json exists) || exit 1
+      shell: bash
+
+    - name: Check exceptions from exceptions.json
+      working-directory: PaperServerTest
+      run: |
+        cat exceptions.json
+        cat exceptions.json | jq --exit-status '. | length == 0'
+      shell: bash
