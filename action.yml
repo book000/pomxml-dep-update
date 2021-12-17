@@ -1,0 +1,26 @@
+name: pom.xml Dependencies Updater
+description: If there is a newer version of the dependency in pom.xml, rewrite it to the latest version.
+branding:
+  icon: thumbs-up
+  color: orange
+inputs:
+  pom-path:
+    description: pom.xml path
+    required: true
+  ignore-packages:
+    description: Update ignore package (Comma separated)
+    required: false
+    default: ''
+runs:
+  using: composite
+
+  steps:
+    - name: Install dependencies
+      run: |
+        yarn
+      shell: bash
+
+    - name: Compile & Run
+      run: |
+        yarn build --target ${{ inputs.target }} --ignore-packages ${{ inputs.ignore-packages }}
+      shell: bash
