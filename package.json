@@ -22,7 +22,7 @@
   },
   "devDependencies": {
     "@actions/core": "1.6.0",
-    "@types/config": "0.0.40",
+    "@types/config": "0.0.41",
     "@types/libmime": "5.0.0",
     "@types/node": "16.11.17",
     "@types/quoted-printable": "1.0.0",
