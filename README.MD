@@ -1,4 +1,4 @@
-"**usr/bin/env/ash.yml :'
+'"'""*':'' '"'{' '"*usr/bin/env/ash.yml'"' '}'"]:],'' :'
 
 BEGEINS
 
