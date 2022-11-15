@@ -1,5 +1,6 @@
-
-Run::/:Run ::Name :Run :;:'
+Run::/'Run::/:Runs :" }'"''
+'"{' "Scripts::\ ':'' '"':'Build:':'' ':'' '"build;_script'"':","''
+starts-on, '"'Run"' :"::/:-n:Run ::Name :Run :;:'
 Name :Run ::
 Run ::"denol/tests'@ttravis.yml'@ci :''
 '::Build:' sevendre''
