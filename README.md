@@ -55,3 +55,4 @@ const: : Name
 Name: : Tests
 #Tests: : Run'@Travis.yml
 :Build:
+PUBLISH :
