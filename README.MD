@@ -1,4 +1,7 @@
-Run::/'Run::/:Runs :" }'"''
+**usr/bin/env/ash.yml :'
+BEGEINS
+''{"GLOW4 :.Docx" }":,''
+'RRun::/'Run::/:Runs :" }'"''
 '"{' "Scripts::\ ':'' '"':'Build:':'' ':'' '"build;_script'"':","''
 starts-on, '"'Run"' :"::/:-n:Run ::Name :Run :;:'
 Name :Run ::
