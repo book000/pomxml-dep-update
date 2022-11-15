@@ -7,41 +7,74 @@ If there is a newer version of the dependency in pom.xml, rewrite it to the late
 This action may cause destructive changes to the existing file (`pom.xml`).
 
 ## Actions: Input./-imput ::
+
 Skip to content
+
 Search or jump to…
 Pull requests
+
 Issues
+
 Codespaces
+
 Marketplace
+
 Explore
- 
+
+
+
 @zakwarlord7 
+
 Your account has been flagged.
+
 Because of that, your profile is hidden from the public. If you believe this is a mistake, contact support to have your account status reviewed.
+
 book000
+
 /
+
 pomxml-dep-update
+
 Public
+
 Code
+
 Issues
+
 Pull requests
+
 13
+
 Actions
+
 Projects
+
 Security
+
 Insights
+
 Update compile.yml #20
- Open
+
+Open
+
 zakwarlord7 wants to merge 3 commits into book000:master from zakwarlord7:patch-1
+
 +762 −5 
- Conversation 0
- Commits 3
- Checks 0
- Files changed 3
+
+Conversation 0
+
+Commits 3
+
+Checks 0
+
+Files changed 3
  Open
 Update compile.yml
 #20
-Show file tree Hide file tree
+Show file TREE/x-mas :
+displays :ALL AUTOMATES Automate ::
+file :TREE
+branches :- '[ trunk ']
 File filter 
  
 0 / 3 files viewed
