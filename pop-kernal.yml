@@ -4,34 +4,7 @@ This :WORKSFLOW-dispatchs/repositories/dispatch-on :worksflow_call-on :dispatch 
 #'Skip ':'#To :content.ynml ::' :
 Search or jump to…
 Request:Pull ::
-:Pull :: curl\ -requests, -fetchs -c'lang:: :''
-': :Starts-on :BEIGN ::
-diff --git a/.github/workflows/codeql.yml b/.github/workflows/codeql.yml
-index 04009a7f10d6..8fba730a901d 100644
---- a/.github/workflows/codeql.yml
-+++ b/.github/workflows/codeql.yml
-@@ -36,3 +36,518 @@ jobs:
-           languages: javascript # comma separated list of values from {go, python, javascript, java, cpp, csharp} (not YET ruby, sorry!)
-       - uses: github/codeql-action/analyze@1ed1437484560351c5be56cf73a48a279d116b78
-         continue-on-error: true
-+#This :WORKSFLOW-dispatchs/repositories/dispatch-on :worksflow_call-on :dispatch :reppositories/framework/module.env/sample :Runs :On-on :, "-on":, :
-+#'Skip ':'#To :content.ynml ::' :
-+Search or jump to…
-+Pull requests
-+Issues
-+Marketplace
-+Explore
-+
-+@zakwarlord7
-+Your account has been flagged.
-+Because of that, your profile is hidden from the public. If you believe this is a mistake, contact support to have your account status reviewed.
-+zakwarlord7
-+/
-+pomxml-dep-update
-+Public
-+forked from book000/pomxml-dep-update
-+Code
-+Pull requests
++-' pulls requests
 +Actions
 +Projects
 +Wiki
