@@ -21,7 +21,7 @@
     "fix:prettier": "prettier --write src"
   },
   "devDependencies": {
-    "@actions/core": "1.6.0",
+    "@actions/core": "1.9.1",
     "@types/config": "0.0.40",
     "@types/libmime": "5.0.0",
     "@types/node": "16.11.17",
