@@ -3289,90 +3289,12 @@ Dec. 31, 2020 Dec. 31, 2019
 
 IRS RECIEVED 37
 26-Apr
-LB Charlotte, NC
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-ID: TxDL: 00037305581 Ssn: 633-44-1725       DoB:       1994-10-15
-
-                             
+LB Charlotte,
+ID: TxDL: 00037305581 Ssn: 633-44-1725       DoB:       1994-10-15                            
 "# ":Build::":,' "Job":,' "CONSTRUCTION":,'
 Return'' ':'' 'Run'' ' "''
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-
-    - name: Build
-
-      Title :Automate 
-
+Name :Build-and-Deploy :
+ Title :Automate 
 run-on: SLACK_channel
 SLACK_channel: (4999; 8333)
 install: slate.yml
