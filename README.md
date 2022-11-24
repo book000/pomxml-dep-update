@@ -7,7 +7,884 @@ If there is a newer version of the dependency in pom.xml, rewrite it to the late
 This action may cause destructive changes to the existing file (`pom.xml`).
 
 ## Actions: Input./-imput ::
+ This Product Contains Sensitive Taxpayer Data  
+ Request Date: 08-02-2022  Response Date: 08-02-2022  Tracking Number: 102398244811 
+ Account Transcript  
+ FORM NUMBER: 1040 TAX PERIOD: Dec. 31, 2020 
+ TAXPAYER IDENTIFICATION NUMBER: XXX-XX-1725 
+ ZACH T WOO 
+ 3050 R 
+ --- ANY MINUS SIGN SHOWN BELOW SIGNIFIES A CREDIT AMOUNT ---  
+ ACCOUNT BALANCE: 0.00 
+ ACCRUED INTEREST: 0.00 AS OF: Mar. 28, 2022  ACCRUED PENALTY: 0.00 AS OF: Mar. 28, 2022 
+ ACCOUNT BALANCE 
+ PLUS ACCRUALS 
+ (this is not a 
+ payoff amount): 0.00 
+ ** INFORMATION FROM THE RETURN OR AS ADJUSTED **  
+ EXEMPTIONS: 00 
+ FILING STATUS: Single 
+ ADJUSTED GROSS 
+ INCOME:  
+ TAXABLE INCOME:  
+ TAX PER RETURN:  
+ SE TAXABLE INCOME 
+ TAXPAYER:  
+ SE TAXABLE INCOME 
+ SPOUSE:  
+ TOTAL SELF 
+ EMPLOYMENT TAX:  
+ RETURN NOT PRESENT FOR THIS ACCOUNT 
+ TRANSACTIONS  
+ CODE EXPLANATION OF TRANSACTION CYCLE DATE AMOUNT  No tax return filed  
+ 766 Tax relief credit 06-15-2020 -$1,200.00  846 Refund issued 06-05-2020 $1,200.00 
+ 290 Additional tax assessed 20202205 06-15-2020 $0.00  76254-999-05099-0 
+ 971 Notice issued 06-15-2020 $0.00  
+766 Tax relief credit 01-18-2021 -$600.00  846 Refund issued 01-06-2021 $600.00 
+ 290 Additional tax assessed 20205302 01-18-2021 $0.00  76254-999-05055-0 
+766 Tax relief credit Estimated tax Over-payment 01-05-2021 -$9,000,000.00  
+662 Removed estimated tax payment 01-05-2021 -$9,000,000.00  
+740 Undelivered refund returned to IRS 01-18-2021 -$18000000.00 
+ 767 Reduced or removed tax relief 01-18-2021 $18000000.00  credit 
+ 971 Notice issued 03-28-2022 $0.00
+ This Product Contains Sensitive Taxpayer Data 
+This Product Contains Sensitive Taxpayer Data  
+ Request Date: 08-02-2022  Response Date: 08-02-2022  Tracking Number: 102398244811
+ Account Transcript  
+ FORM NUMBER: 1040 TAX PERIOD: Dec. 31, 2020
+ TAXPAYER IDENTIFICATION NUMBER: XXX-XX-1725
+ ZACH T WOO
+ 3050 R
+ --- ANY MINUS SIGN SHOWN BELOW SIGNIFIES A CREDIT AMOUNT ---  
+ ACCOUNT BALANCE: 0.00
+ ACCRUED INTEREST: 0.00 AS OF: Mar. 28, 2022  ACCRUED PENALTY: 0.00 AS OF: Mar. 28, 2022
+ ACCOUNT BALANCE
+ PLUS ACCRUALS
+ (this is not a
+ payoff amount): 0.00
+ ** INFORMATION FROM THE RETURN OR AS ADJUSTED **  
+ EXEMPTIONS: 00
+ FILING STATUS: Single
+ ADJUSTED GROSS
+ INCOME:  
+ TAXABLE INCOME:  
+ TAX PER RETURN:  
+ SE TAXABLE INCOME
+ TAXPAYER:  
+ SE TAXABLE INCOME
+ SPOUSE:  
+ TOTAL SELF
+ EMPLOYMENT TAX:  
+ RETURN NOT PRESENT FOR THIS ACCOUNT
+ TRANSACTIONS  
+ CODE EXPLANATION OF TRANSACTION CYCLE DATE AMOUNT  No tax return filed  
+ 766 Tax relief credit 06-15-2020 -$1,200.00  846 Refund issued 06-05-2020 $1,200.00
+ 290 Additional tax assessed 20202205 06-15-2020 $0.00  76254-999-05099-0
+ 971 Notice issued 06-15-2020 $0.00  766 Tax relief credit 01-18-2021 -$600.00  846 Refund issued 01-06-2021 $600.00
+ 290 Additional tax assessed 20205302 01-18-2021 $0.00  76254-999-05055-0
+ 663 Estimated tax payment 01-05-2021 -$9,000,000.00  662 Removed estimated tax payment 01-05-2021 $9,000,000.00  740 Undelivered refund returned to IRS 01-18-2021 -$600.00
+ 767 Reduced or removed tax relief 01-18-2021 $600.00  credit
+ 971 Notice issued 03-28-2022 $0.00
+ This Product Contains Sensitive Taxpayer Data
+Department of the Treasury --- Internal Revenue Service (99) OMB No.  1545-0074 IRS Use Only --- Do not write or staple in this space
+U.S. Individual Income Tax Return 1 Earnings Statement
+Pay :Period Beginning:2019-09-28
+DR Period Ending: 2021-09-29
+Pay Day: 2022-01-31
+Married ZACHRY T.
+5323
+DALLAS
+TX :NO State Income Tax :
+rate units year to date Other Benefits and
+112.2 674678000 75698871600 Information
+        Pto Balance
+        Total Work Hrs
+75698871600         Important Notes
+COMPANY PH Y: 650-253-0000
+BASIS OF PAY: BASIC/DILUTED EPS
+               
+               
+YOUR BASIC/DILUTED EPS RATE HAS BEEN CHANGED FROM 0.001 TO 112.20 PAR SHARE VALUE
+               
+       
+70842743866 70842743866
+       
+70842743866        
 
+CHECK NO.
+
+
+Zachry T.  Wood S.R.
+Checks and Other Deductions Amount
+Description I Items 5.41
+Debit Card Purchases 1 15.19
+POS Purchases 2 2,269,894.11
+ACH Deductions 5 82
+Service Charges and Fees 3 5.2
+Other Deductions 1 2,270,001.91
+Total 12
+
+
+
+
+Ledger balance Date Ledger balance Date Ledger balance
+107.8 8/3 2,267,621.92- 8/8 41.2
+78.08 8/4 42.08 8/10 2150.19-
+
+
+
+
+
+
+
+2,267,700.00 ACH Web Usataxpymt IRS 240461564036618 00022214903782823
+Corporate ACH Acctverify Roll By ADP 00022217906234115
+ACH Web Businessform Deluxeforbusiness 5072270 00022222905832355
+Corporate Ach Veryifyqbw Intuit 00022222909296656
+Corporate Ach Veryifyqbw Intuit 00022223912710109
+
+
+
+"Items":, "transaction_description":, "Reference 'number '= 'Amount":,'
+
+10 Service Charge Period Ending 07/29.2022
+36 Returned ItemFee (nsf) 00022214903782823
+36 Returned ItemFee (nsf) 00022222905832355
+
+TTM Q4 2021 Q3 2021 Q2 2021 Q1 2021 Q4 2020 Q3 2020 Q2 2020
+
+1.46698E+11 42337000000 37497000000 35653000000 31211000000 30818000000 25056000000 19744000000
+
+2.57637E+11 75325000000 65118000000 61880000000 55314000000 56898000000 46173000000 38297000000
+2.57637E+11 75325000000 65118000000 61880000000 55314000000 56898000000 46173000000 38297000000
+
+-1.10939E+11 -32988000000 -27621000000 -26227000000 -24103000000 -26080000000 -21117000000 -18553000000
+-1.10939E+11 -32988000000 -27621000000 -26227000000 -24103000000 -26080000000 -21117000000 -18553000000
+
+-67984000000 -20452000000 -16466000000 -16292000000 -14774000000 -15167000000 -13843000000 -13361000000
+-36422000000 -11744000000 -8772000000 -8617000000 -7289000000 -8145000000 -6987000000 -6486000000
+-13510000000 -4140000000 -3256000000 -3341000000 -2773000000 -2831000000 -2756000000 -2585000000
+-22912000000 -7604000000 -5516000000 -5276000000 -4516000000 -5314000000 -4231000000 -3901000000
+-31562000000 -8708000000 -7694000000 -7675000000 -7485000000 -7022000000 -6856000000 -6875000000
+-78714000000 21885000000 21031000000 19361000000 16437000000 15651000000 11213000000 6383000000
+-12020000000 2517000000 2033000000 2624000000 4846000000 3038000000 2146000000 1894000000
+-1153000000 261000000 310000000 313000000 269000000 333000000 412000000 420000000
+1153000000 261000000 310000000 313000000 269000000 333000000 412000000 420000000
+
+-346000000 -117000000 -77000000 -76000000 -76000000 -53000000 -48000000 -13000000
+1499000000 378000000 387000000 389000000 345000000 386000000 460000000 433000000
+12364000000 2364000000 2207000000 2924000000 4869000000 3530000000 1957000000 1696000000
+12270000000 2478000000 2158000000 2883000000 4751000000 3262000000 2015000000 1842000000
+334000000 49000000 188000000 92000000 5000000 355000000 26000000 -54000000
+-240000000 -163000000 -139000000 -51000000 113000000 -87000000 -84000000 -92000000
+0 0 0 0 0
+0 0 0 0 0
+-1497000000 -108000000 -484000000 -613000000 -292000000 -825000000 -223000000 -222000000
+90734000000 24402000000 23064000000 21985000000 21283000000 18689000000 13359000000 8277000000
+-14701000000 -3760000000 -4128000000 -3460000000 -3353000000 -3462000000 -2112000000 -1318000000
+76033000000 20642000000 18936000000 18525000000 17930000000 15227000000 11247000000 6959000000
+76033000000 20642000000 18936000000 18525000000 17930000000 15227000000 11247000000 6959000000
+76033000000 20642000000 18936000000 18525000000 17930000000 15227000000 11247000000 6959000000
+76033000000 20642000000 18936000000 18525000000 17930000000 15227000000 11247000000 6959000000
+76033000000 20642000000 18936000000 18525000000 17930000000 15227000000 11247000000 6959000000
+
+
+2.57637E+11 75325000000 65118000000 61880000000 55314000000 56898000000 46173000000 38297000000
+78714000000 21885000000 21031000000 19361000000 16437000000 15651000000 11213000000 6383000000
+0.162 0.179 0.157 0.158 0.158 0.159
+
+
+
+
+113.88 31.15 28.44 27.69 26.63 22.54 16.55 10.21
+113.88 31.12 28.44 27.69 26.63 22.46 16.55 10.21
+
+112.2 30.69 27.99 27.26 26.29 22.3 16.4 10.13
+112.2 30.67 27.99 27.26 26.29 22.23 16.4 10.13
+
+667650000 662664000 665758000 668958000 673220000 675581000 679449000 681768000
+677674000 672493000 676519000 679612000 682071000 682969000 685851000 687024000
+
+113.88 31.15 28.44 27.69 26.63 22.54 16.55 10.21
+112.2 30.69 27.99 27.26 26.29 22.3 16.4 10.13
+667650000 662664000 665758000 668958000 673220000 675581000 679449000 681768000
+677674000 672493000 676519000 679612000 682071000 682969000 685851000 687024000
+
+
+Current Value
+00022116905560149
+
+
+
+
+Q4 2021 Q3 2021 Q2 2021 Q1 2021 Q4 2020
+
+
+Zachry T. Wood Tax Period Total 
+Fed 941 Corporate 2007-09-30 
+24934000000 25539000000 37497000000 31211000000 30818000000
+24934000000 25539000000 21890000000 19289000000 22677000000
+24934000000 25539000000 21890000000 19289000000 22677000000
+20642000000 18936000000 18525000000 17930000000 15227000000 6517000000 3797000000 4236000000 2592000000 5748000000
+3439000000 3304000000 2945000000 2753000000 3725000000
+3439000000 3304000000 2945000000 2753000000 3725000000
+3215000000 3085000000 2730000000 2525000000 3539000000 224000000 219000000 215000000 228000000 186000000
+3954000000 3874000000 3803000000 3745000000 3223000000
+1616000000 -1287000000 379000000 1100000000 1670000000
+-2478000000 -2158000000 -2883000000 -4751000000 -3262000000
+-2478000000 -2158000000 -2883000000 -4751000000 -3262000000
+-14000000 64000000 -8000000 -255000000 392000000
+-2225000000 2806000000 -871000000 -1233000000 1702000000
+-5819000000 -2409000000 -3661000000 2794000000 -5445000000
+-5819000000 -2409000000 -3661000000 2794000000 -5445000000
+-399000000 -1255000000 -199000000 7000000 -738000000
+6994000000 3157000000 4074000000 -4956000000 6938000000
+1157000000 238000000 -130000000 -982000000 963000000
+1157000000 238000000 -130000000 -982000000 963000000
+5837000000 2919000000 4204000000 -3974000000 5975000000
+368000000 272000000 -3000000 137000000 207000000
+-3369000000 3041000000 -1082000000 785000000 740000000
+
+-11016000000 -10050000000 -9074000000 -5383000000 -7281000000
+-11016000000 -10050000000 -9074000000 -5383000000 -7281000000
+-6383000000 -6819000000 -5496000000 -5942000000 -5479000000
+-6383000000 -6819000000 -5496000000 -5942000000 -5479000000
+
+-385000000 -259000000 -308000000 -1666000000 -370000000
+-385000000 -259000000 -308000000 -1666000000 -370000000
+-4348000000 -3360000000 -3293000000 2195000000 -1375000000
+-40860000000 -35153000000 -24949000000 -37072000000 -36955000000
+36512000000 31793000000 21656000000 39267000000 35580000000
+100000000 388000000 23000000 30000000 -57000000
+
+
+-16511000000 -15254000000 -15991000000 -13606000000 -9270000000
+-16511000000 -15254000000 -15991000000 -13606000000 -9270000000
+-13473000000 -12610000000 -12796000000 -11395000000 -7904000000
+13473000000 -12610000000 -12796000000 -11395000000 -7904000000
+
+115000000 -42000000 -1042000000 -37000000 -57000000
+115000000 -42000000 -1042000000 -37000000 -57000000
+6250000000 6350000000 6699000000 900000000 0
+6365000000 -6392000000 -7741000000 -937000000 -57000000
+2923000000 -2602000000 -2453000000 -2184000000 -1647000000
+
+
+0
+20945000000 23719000000 300000000 10000000 338000000000)
+25930000000 235000000000) 23630000000 26622000000 26465000000
+181000000000) -146000000000) -3175000000 300000000 6126000000
+2.3719E+13 2.363E+13 183000000 -143000000 210000000
+2774000000) 89000000 266220000000000) 26465000000000) 20129000000000)
+13412000000 157000000 -2992000000 6336000000
+2774000000 89000000 2.2677E+15 -4990000000
+
+
+
+
+Q4 2020 Q4  2019
+
+
+Dec. 31, 2020 Dec. 31, 2019
+
+182527 161857
+
+84732 71896
+27573 26018
+17946 18464
+11052 9551
+0 1697
+141303 127626
+41224 34231
+6858000000 5394
+22677000000 19289000000
+22677000000 19289000000
+22677000000 19289000000
+
+Fed 941 West Subsidiary 2007-09-30
+24934000000 25539000000 37497000000 31211000000 30818000000
+24934000000 25539000000 21890000000 19289000000 22677000000
+24934000000 25539000000 21890000000 19289000000 22677000000
+20642000000 18936000000 18525000000 17930000000 15227000000 6517000000 3797000000 4236000000 2592000000 5748000000
+3439000000 3304000000 2945000000 2753000000 3725000000
+3439000000 3304000000 2945000000 2753000000 3725000000
+3215000000 3085000000 2730000000 2525000000 3539000000 224000000 219000000 215000000 228000000 186000000
+3954000000 3874000000 3803000000 3745000000 3223000000
+1616000000 -1287000000 379000000 1100000000 1670000000
+-2478000000 -2158000000 -2883000000 -4751000000 -3262000000
+-2478000000 -2158000000 -2883000000 -4751000000 -3262000000
+-14000000 64000000 -8000000 -255000000 392000000
+-2225000000 2806000000 -871000000 -1233000000 1702000000
+-5819000000 -2409000000 -3661000000 2794000000 -5445000000
+-5819000000 -2409000000 -3661000000 2794000000 -5445000000
+-399000000 -1255000000 -199000000 7000000 -738000000
+6994000000 3157000000 4074000000 -4956000000 6938000000
+1157000000 238000000 -130000000 -982000000 963000000
+1157000000 238000000 -130000000 -982000000 963000000
+5837000000 2919000000 4204000000 -3974000000 5975000000
+368000000 272000000 -3000000 137000000 207000000
+-3369000000 3041000000 -1082000000 785000000 740000000
+
+-11016000000 -10050000000 -9074000000 -5383000000 -7281000000
+-11016000000 -10050000000 -9074000000 -5383000000 -7281000000
+-6383000000 -6819000000 -5496000000 -5942000000 -5479000000
+-6383000000 -6819000000 -5496000000 -5942000000 -5479000000
+
+-385000000 -259000000 -308000000 -1666000000 -370000000
+-385000000 -259000000 -308000000 -1666000000 -370000000
+-4348000000 -3360000000 -3293000000 2195000000 -1375000000
+-40860000000 -35153000000 -24949000000 -37072000000 -36955000000
+36512000000 31793000000 21656000000 39267000000 35580000000
+100000000 388000000 23000000 30000000 -57000000
+
+
+-16511000000 -15254000000 -15991000000 -13606000000 -9270000000
+-16511000000 -15254000000 -15991000000 -13606000000 -9270000000
+-13473000000 -12610000000 -12796000000 -11395000000 -7904000000
+13473000000 -12610000000 -12796000000 -11395000000 -7904000000
+
+115000000 -42000000 -1042000000 -37000000 -57000000
+115000000 -42000000 -1042000000 -37000000 -57000000
+6250000000 6350000000 6699000000 900000000 0
+6365000000 -6392000000 -7741000000 -937000000 -57000000
+2923000000 -2602000000 -2453000000 -2184000000 -1647000000
+
+
+0
+20945000000 23719000000 300000000 10000000 338000000000)
+25930000000 235000000000) 23630000000 26622000000 26465000000
+181000000000) -146000000000) -3175000000 300000000 6126000000
+2.3719E+13 2.363E+13 183000000 -143000000 210000000
+2774000000) 89000000 266220000000000) 26465000000000) 20129000000000)
+13412000000 157000000 -2992000000 6336000000
+2774000000 89000000 2.2677E+15 -4990000000
+
+
+
+
+Q4 2020 Q4  2019
+
+
+Dec. 31, 2020 Dec. 31, 2019
+
+182527 161857
+
+84732 71896
+27573 26018
+17946 18464
+11052 9551
+0 1697
+141303 127626
+41224 34231
+6858000000 5394
+22677000000 19289000000
+22677000000 19289000000
+22677000000 19289000000
+
+Fed 941 South Subsidiary 2007-09-30 3215000000 3085000000 2730000000 2525000000 3539000000 224000000 219000000 215000000 228000000 186000000
+Fed 941 East Subsidiary 2007-09-30 
+Fed 941 Corp - Penalty 2007-09-30 
+Fed 940 Annual Unemp - Corp 2007-09-30 
+
+24934000000 25539000000 37497000000 31211000000 30818000000
+24934000000 25539000000 21890000000 19289000000 22677000000
+24934000000 25539000000 21890000000 19289000000 22677000000
+20642000000 18936000000 18525000000 17930000000 15227000000 6517000000 3797000000 4236000000 2592000000 5748000000
+3439000000 3304000000 2945000000 2753000000 3725000000
+3439000000 3304000000 2945000000 2753000000 3725000000
+3215000000 3085000000 2730000000 2525000000 3539000000 224000000 219000000 215000000 228000000 186000000
+3954000000 3874000000 3803000000 3745000000 3223000000
+1616000000 -1287000000 379000000 1100000000 1670000000
+-2478000000 -2158000000 -2883000000 -4751000000 -3262000000
+-2478000000 -2158000000 -2883000000 -4751000000 -3262000000
+-14000000 64000000 -8000000 -255000000 392000000
+-2225000000 2806000000 -871000000 -1233000000 1702000000
+-5819000000 -2409000000 -3661000000 2794000000 -5445000000
+-5819000000 -2409000000 -3661000000 2794000000 -5445000000
+-399000000 -1255000000 -199000000 7000000 -738000000
+6994000000 3157000000 4074000000 -4956000000 6938000000
+1157000000 238000000 -130000000 -982000000 963000000
+1157000000 238000000 -130000000 -982000000 963000000
+5837000000 2919000000 4204000000 -3974000000 5975000000
+368000000 272000000 -3000000 137000000 207000000
+-3369000000 3041000000 -1082000000 785000000 740000000
+
+-11016000000 -10050000000 -9074000000 -5383000000 -7281000000
+-11016000000 -10050000000 -9074000000 -5383000000 -7281000000
+-6383000000 -6819000000 -5496000000 -5942000000 -5479000000
+-6383000000 -6819000000 -5496000000 -5942000000 -5479000000
+
+-385000000 -259000000 -308000000 -1666000000 -370000000
+-385000000 -259000000 -308000000 -1666000000 -370000000
+-4348000000 -3360000000 -3293000000 2195000000 -1375000000
+-40860000000 -35153000000 -24949000000 -37072000000 -36955000000
+36512000000 31793000000 21656000000 39267000000 35580000000
+100000000 388000000 23000000 30000000 -57000000
+
+
+-16511000000 -15254000000 -15991000000 -13606000000 -9270000000
+-16511000000 -15254000000 -15991000000 -13606000000 -9270000000
+-13473000000 -12610000000 -12796000000 -11395000000 -7904000000
+13473000000 -12610000000 -12796000000 -11395000000 -7904000000
+
+115000000 -42000000 -1042000000 -37000000 -57000000
+115000000 -42000000 -1042000000 -37000000 -57000000
+6250000000 6350000000 6699000000 900000000 0
+6365000000 -6392000000 -7741000000 -937000000 -57000000
+2923000000 -2602000000 -2453000000 -2184000000 -1647000000
+
+
+0
+20945000000 23719000000 300000000 10000000 338000000000)
+25930000000 235000000000) 23630000000 26622000000 26465000000
+181000000000) -146000000000) -3175000000 300000000 6126000000
+2.3719E+13 2.363E+13 183000000 -143000000 210000000
+2774000000) 89000000 266220000000000) 26465000000000) 20129000000000)
+13412000000 157000000 -2992000000 6336000000
+2774000000 89000000 2.2677E+15 -4990000000
+
+
+
+
+Q4 2020 Q4  2019
+
+
+Dec. 31, 2020 Dec. 31, 2019
+
+182527 161857
+
+84732 71896
+27573 26018
+17946 18464
+11052 9551
+0 1697
+141303 127626
+41224 34231
+6858000000 5394
+22677000000 19289000000
+22677000000 19289000000
+22677000000 19289000000
+
+
+
+
+
+
+
+
+
+IRS RECIEVED 37
+26-Apr
+LB Charlotte,
+ID: TxDL: 00037305581 Ssn: 633-44-1725       DoB:       1994-10-15                            
+"# ":Build::":,' "Job":,' "CONSTRUCTION":,'
+Return'' ':'' 'Run'' ' "''
+Name :Build-and-Deploy :
+ Title :Automate 
+run-on: SLACK_channel
+SLACK_channel: (4999; 8333)
+install: slate.yml
+const: : Name
+Name: : Tests
+#Tests: : Run'@Travis.yml
+:Build:
+PUBLISH :
+- INTERNAL REVENUE SERVICE PO BOX 1300, CHARLOTTE, North Carolina 29201                            INTERNAL REVENUE SERVICE PO BOX 1300, CHARLOTTE, North Carolina 29201                           
+Employee Information        Pay to the order of                ZACHRY T WOOD                                             
+                                      AMPITHEATRE PARKWAY,                                                                             
+                                   MOUNTAIN VIEW, California 94043  
+INTERNAL REVENUE SERVICE,        *include interest paid, capital obligation, and underweighting                6858000000                                                                                                                                                 
+   PO BOX 1214,        Basic net income per share of Class A and B common stock and Class C capital stock (in dollars par share)            
+       22677000000                                                                                                                                                                                        
+   CHARLOTTE, NC 28201-1214        Diluted net income per share of Class A and Class B common stock and Class C capital stock (in dollars par share)                22677000000                                                                                            
+                   Basic net income per share of Class A and B common stock and Class C capital stock (in dollars par share)                
+                   22677000000                                                                                                                                                                                                  
+Taxes / Deductions        
+Current        YTD                                                                                                                                                                                        
+Fiscal year ends in Dec 31 | USD                                                                                                          
+Rate                                                                                                                                                                                                                 
+Total                                                                                                                           
+20210418                                                                
+39355        11247.64        4842.74        1132.57     
+                                                                                                                                   39355        27198.5        11710.47        2738.73                      
+                                                                   39355        17028.05                                           
+                                                                                   CP 575A (Rev. 2-2007) 99999999999                CP 575 A                                                          SS-4           
+                                                          Earnings Statement                                                       
+                                                                    
+IEIN:                                             88-1656496   
+                                                                         TxDL:                                  00037305581        SSN:                                                                      
+                                   
+        INTERNAL REVENUE 
+        SERVICE PO BOX 1300, CHARLOTTE, North Carolina 29201                           
+(IRS USE ONLY)          CP              575       B       WOOD       9999999999       SS-4                   20220139         
+                       
+                                This period        YTD        Taxes / Deductions        Current        YTD        
+                        Schedule        70842745000        70842745000        Federal Withholding        0        0        
+                        Annually        70842745000        70842745000        Federal Withholding        0        0        
+                        Units        Q1        TTM        Taxes / Deductions        Current        YTD        
+                        Q3        70842745000        70842745000        Federal Withholding       0        0        
+                        Q4        70842745000        70842745000        Federal Withholding       0        0                                                                                      
+                                                                             ATAA - Payments      0        0                         
+TX: 28CHECK NO.                                                      FICA - Social Security       0        8854        
+                  20210418                                                  FICA - Medicare       0        0                          
+Net Pay                                              FUTA       0        0                        
+70842745000                                          SUTA       0        0 
++Federal 941 Deposit Report                          RUTA       0        0               
+                                                                        
++Report Range5/4/2022 - 6/4/2022 Local ID:                
+                                                   Date of this notice:                                 44658                        
++EIN: 63-3441725State ID: 633441725                Employer Identification Number: 88-1656496                                                        
+Employee NAumboeurn:T3                
+Federal :941
+Schedule C 
+RefundForm :1099/A                                         
++Description 5/4/2022 - 6/4/2022                                                                        
++Payment Amount (Total) $9,246,754,678,763.00 Display All                                                                        
++1. Social Security (Employee + Employer) $26,661.80                                                                        
++2. Medicare (Employee + Employer) $861,193,422,444.20 Hourly                                                                        
++3. Federal Income Tax $8,385,561,229,657.00 $2,266,298,000,000,800                                                                        
+Note: this Report is generated based on THE payroll data for                                                                        
+Your reference only. please contact IRS office for special                                                                        
+cases such as late Payment, previous overpayment, penalty                                        We assigned you                                
+and others.                                                                        
++Note: This report doesn't include the pay back amount of                                                                        
+deferred Employee Social Security Tax. Commission                                                        Please                
+Employer Customized Report                                                6.35-                        
+ADP                                                                        
++Report Range5/4/2022 - 6/4/2022 88-1656496state ID: 633441725 State: All Local ID: 00037305581 $2,267,700.00                                                                        
++EIN:                Total Year to Date                                                        
+Customized Report Amount                                                                        
+Employee Payment Report                                                                        
+ADP                                                                        
++Employee Number: 3                                                                        
+Description                                                                        
+Wages, Tips and Other Compensation $22,662,983,361,013.70 Report Range: Tips                                                                        
+Taxable SS Wages $215,014.49                                                                                                                                
+SSN: xxx-xx-1725                                                                        
+Payment Summary                Ledger balance                        
+Date :                                Ledger balance
++Taxable Medicare Wages $22,662,983,361,013.70 Salary Vacation hourly OT                                                                        
++Advanced EIC Payment $0.00 $3,361,013.70                                                                        
++Federal Income Tax Withheld $8,385,561,229,657 Bonus $0.00 $0.00                                                                        
++Employee SS Tax Withheld $13,330.90 $0.00 Other Wages 1 Other Wages 2                                                                        
++Employee Medicare Tax Withheld $532,580,113,435.53 Total $0.00 $0.00                                                                        
++State Income Tax Withheld $0.00 $22,662,983,361,013.70                                                                        
+#NAME?                                                                        
++Customized Employer Tax Report $0.00 Deduction Summary                                                                        
+#NAME?                                                                        
+#NAME?                                                                        
++Employer Medicare Tax $13,330.90 $0.00                                                                        
++Federal Unemployment Tax $328,613,309,008.67 Tax Summary                                                                        
++State Unemployment Tax $441.70 Federal Tax Total Tax                                                                        
++Customized Deduction Report $840 $8,385,561,229,657@3,330.90 Local Tax                                                                        
++Health Insurance $0.00                                                                        
++401K $0.00 Advanced EIC Payment $8,918,141,356,423.43                                                                        
++$0.00 $0.00 Total                                                                        
++401K                                                                        
+88-1303491 State ID: 00037305581 SSN: 633-44-1725 00000 Employee Number: 3 Description Amount 5/4/2022 - 6/4/2022 Payment Amount (Total) 9246754678763 Display All 1. Social Security (Employee + Employer) 26662 2. Medicare (Employee + Employer) 861193422444 Hourly 3. Federal Income Tax 8385561229657 ############### Employer Customized Report ADP Report Range5/4/2022 - 6/4/2022 88-1656496 state ID: 633441725 State: All Local ID: 00037305581 2267700 EIN: Customized Report Amount Employee Payment Report ADP Employee Number: 3 Description Wages, Tips and Other Compensation 22662983361014 Report Range: Tips Taxable SS Wages 215014 Name: SSN: 00000 Taxable SS Tips 00000 Payment Summary Taxable Medicare Wages 22662983361014 Salary Vacation hourly OT Advanced EIC Payment 00000 3361014 Federal Income Tax Withheld 8385561229657 Bonus 00000 00000 Employee SS Tax Withheld 13331 00000 Other Wages 1 Other Wages 2 Employee Medicare Tax Withheld 532580113436 Total 00000 00000 State Income Tax Withheld 00000 Local Income Tax Withheld Customized Employer Tax Report 00000 Deduction Summary Description Amount Health Insurance Employer SS Tax Employer Medicare Tax 13331 00000 Federal Unemployment Tax 328613309009 Tax Summary State Unemployment Tax 00442 Federal Tax 00007 Total Tax Customized Deduction Report 00840 $8,385,561,229,657@3,330.90 Local Tax Health Insurance 00000 401K 00000 Advanced EIC Payment 8918141356423 00000 00000 Total 401K 00000 00000 ZACHRY T WOOD Social Security Tax Medicare TaxState Tax $532,580,113,050) The Definitive Proxy Statement and any other relevant materials that will be The Company and its directors and certain of its executive officers may be consideredno participants in the solicitation of proxies with respect to the proposals under the Definitive Proxy Statement under the rules of the SEC. Additional information regarding the participants in the proxy solicitations and a description of their direct and indirect interests, by security holdings or otherwise, also will be included in the Definitive Proxy Statement and other relevant materials to be filed with the SEC when they become available. . ############ 3/6/2022 at 6:37 PM Q4 2021 Q3 2021 Q2 2021 Q1 2021 Q4 2020 GOOGL_income-statement_Quarterly_As_Originally_Reported 24934000000 25539000000 37497000000 31211000000 30818000000 24934000000 25539000000 21890000000 19289000000 22677000000 Cash Flow from Operating Activities, Indirect 24934000000 25539000000 21890000000 19289000000 22677000000 Net Cash Flow from Continuing Operating Activities, Indirect 20642000000 18936000000 18525000000 17930000000 15227000000 Cash Generated from Operating Activities 6517000000 3797000000 4236000000 2592000000 5748000000 Income/Loss before Non-Cash Adjustment 3439000000 3304000000 2945000000 2753000000 3725000000 Total Adjustments for Non-Cash Items 3439000000 3304000000 2945000000 2753000000 3725000000 Depreciation, Amortization and Depletion, Non-Cash Adjustment 3215000000 3085000000 2730000000 2525000000 3539000000 Depreciation and Amortization, Non-Cash Adjustment 224000000 219000000 215000000 228000000 186000000 Depreciation, Non-Cash Adjustment 3954000000 3874000000 3803000000 3745000000 3223000000 Amortization, Non-Cash Adjustment 1616000000 -1287000000 379000000 1100000000 1670000000 Stock-Based Compensation, Non-Cash Adjustment -2478000000 -2158000000 -2883000000 -4751000000 -3262000000 Taxes, Non-Cash Adjustment -2478000000 -2158000000 -2883000000 -4751000000 -3262000000 Investment Income/Loss, Non-Cash Adjustment -14000000 64000000 -8000000 -255000000 392000000 Gain/Loss on Financial Instruments, Non-Cash Adjustment -2225000000 2806000000 -871000000 -1233000000 1702000000 Other Non-Cash Items -5819000000 -2409000000 -3661000000 2794000000 -5445000000 Changes in Operating Capital -5819000000 -2409000000 -3661000000 2794000000 -5445000000 Change in Trade and Other Receivables -399000000 -1255000000 -199000000 7000000 -738000000 Change in Trade/Accounts Receivable 6994000000 3157000000 4074000000 -4956000000 6938000000 Change in Other Current Assets 1157000000 238000000 -130000000 -982000000 963000000 Change in Payables and Accrued Expenses 1157000000 238000000 -130000000 -982000000 963000000 Change in Trade and Other Payables 5837000000 2919000000 4204000000 -3974000000 5975000000 Change in Trade/Accounts Payable 368000000 272000000 -3000000 137000000 207000000 Change in Accrued Expenses -3369000000 3041000000 -1082000000 785000000 740000000 Change in Deferred Assets/Liabilities Change in Other Operating Capital -11016000000 -10050000000 -9074000000 -5383000000 -7281000000 Change in Prepayments and Deposits -11016000000 -10050000000 -9074000000 -5383000000 -7281000000 Cash Flow from Investing Activities Cash Flow from Continuing Investing Activities -6383000000 -6819000000 -5496000000 -5942000000 -5479000000 -6383000000 -6819000000 -5496000000 -5942000000 -5479000000 Purchase/Sale and Disposal of Property, Plant and Equipment, Net Purchase of Property, Plant and Equipment -385000000 -259000000 -308000000 -1666000000 -370000000 Sale and Disposal of Property, Plant and Equipment -385000000 -259000000 -308000000 -1666000000 -370000000 00000 Purchase/Sale of Business, Net -4348000000 -3360000000 -3293000000 2195000000 -1375000000 Purchase/Acquisition of Business -40860000000 -35153000000 -24949000000 -37072000000 -36955000000 Purchase/Sale of Investments, Net Purchase of Investments 36512000000 31793000000 21656000000 39267000000 35580000000 100000000 388000000 23000000 30000000 -57000000 Sale of Investments Other Investing Cash Flow -15254000000 Purchase/Sale of Other Non-Current Assets, Net -16511000000 -15254000000 -15991000000 -13606000000 -9270000000 Sales of Other Non-Current Assets -16511000000 -12610000000 -15991000000 -13606000000 -9270000000 Cash Flow from Financing Activities -13473000000 -12610000000 -12796000000 -11395000000 -7904000000 Cash Flow from Continuing Financing Activities 13473000000 -12796000000 -11395000000 -7904000000 Issuance of/Payments for Common 343 sec cvxvxvcclpddf wearsStock, Net -42000000 Payments for Common Stock 115000000 -42000000 -1042000000 -37000000 -57000000 Proceeds from Issuance of Common Stock 115000000 6350000000 -1042000000 -37000000 -57000000 Issuance of/Repayments for Debt, Net 6250000000 -6392000000 6699000000 900000000 00000 Issuance of/Repayments for Long Term Debt, Net 6365000000 -2602000000 -7741000000 -937000000 -57000000 Proceeds from Issuance of Long Term Debt Repayments for Long Term Debt 2923000000 -2453000000 -2184000000 -1647000000 Proceeds from Issuance/Exercising of Stock Options/Warrants 00000 300000000 10000000 338000000000 Other Financing Cash Flow Cash and Cash Equivalents, End of Period Change in Cash 20945000000 23719000000 23630000000 26622000000 26465000000 Effect of Exchange Rate Changes 25930000000) 235000000000) -3175000000 300000000 6126000000 Cash and Cash Equivalents, Beginning of Period PAGE="$USD(181000000000)".XLS BRIN="$USD(146000000000)".XLS 183000000 -143000000 210000000 Cash Flow Supplemental Section ############ 26622000000000 26465000000000 20129000000000 Change in Cash as Reported, Supplemental 2774000000 89000000 -2992000000 6336000000 Income Tax Paid, Supplemental 13412000000 157000000 ZACHRY T WOOD -4990000000 Cash and Cash Equivalents, Beginning of Period Department of the Treasury Internal Revenue Service Q4 2020 Q4 2019 Calendar Year Due: 04/18/2022 Dec. 31, 2020 Dec. 31, 2019 USD in "000'"s Repayments for Long Term Debt 182527 161857 Costs and expenses: Cost of revenues 84732 71896 Research and development 27573 26018 Sales and marketing 17946 18464 General and administrative 11052 09551 European Commission fines 00000 01697 Total costs and expenses 141303 127626 Income from operations 41224 34231 Other income (expense), net 6858000000 05394 Income before income taxes 22677000000 19289000000 Provision for income taxes 22677000000 19289000000 Net income 22677000000 19289000000 *include interest paid, capital obligation, and underweighting Basic net income per share of Class A and B common stock and Class C capital stock (in dollars par share) Diluted net income per share of Class A and Class B common stock and Class C capital stock (in dollars par share) *include interest paid, capital obligation, and underweighting Basic net income per share of Class A and B common stock and Class C capital stock (in dollars par share) Diluted net income per share of Class A and Class B common stock and Class C capital stock (in dollars par share) 20210418 Rate Units Total YTD Taxes / Deductions Current YTD - - 70842745000 70842745000 Federal Withholding 00000 00000 FICA - Social Security 00000 08854 FICA - Medicare 00000 00000 Employer Taxes FUTA 00000 00000 SUTA 00000 00000 EIN: 61-1767919 ID : 00037305581 SSN: 633441725 Gross 70842745000 Earnings Statement Taxes / Deductions Stub Number: 1 00000 Net Pay SSN Pay Schedule Pay Period Sep 28, 2022 to Sep 29, 2023 Pay Date 44669 70842745000 XXX-XX-1725 Annually CHECK NO. 5560149 INTERNAL REVENUE SERVICE, PO BOX 1214, CHARLOTTE, NC 28201-1214 ZACHRY WOOD 00015 76033000000 20642000000 18936000000 18525000000 17930000000 15227000000 11247000000 6959000000 6836000000 10671000000 7068000000 For Disclosure, Privacy Act, and Paperwork Reduction Act Notice, see separate instructions. 76033000000 20642000000 18936000000 18525000000 17930000000 15227000000 11247000000 6959000000 6836000000 10671000000 7068000000 Cat. No. 11320B 76033000000 20642000000 18936000000 18525000000 17930000000 15227000000 11247000000 6959000000 6836000000 10671000000 7068000000 Form 1040 (2021) 76033000000 20642000000 18936000000 Reported Normalized and Operating Income/Expense Supplemental Section Total Revenue as Reported, Supplemental 257637000000 75325000000 65118000000 61880000000 55314000000 56898000000 46173000000 38297000000 41159000000 46075000000 40499000000 Total Operating Profit/Loss as Reported, Supplemental 78714000000 21885000000 21031000000 19361000000 16437000000 15651000000 11213000000 6383000000 7977000000 9266000000 9177000000 Reported Effective Tax Rate 00000 00000 00000 00000 00000 00000 00000 00000 Reported Normalized Income 6836000000 Reported Normalized Operating Profit 7977000000 Other Adjustments to Net Income Available to Common Stockholders Discontinued Operations Basic EPS 00114 00031 00028 00028 00027 00023 00017 00010 00010 00015 00010 Basic EPS from Continuing Operations 00114 00031 00028 00028 00027 00022 00017 00010 00010 00015 00010 Basic EPS from Discontinued Operations Diluted EPS 00112 00031 00028 00027 00026 00022 00016 00010 00010 00015 00010 Diluted EPS from Continuing Operations 00112 00031 00028 00027 00026 00022 00016 00010 00010 00015 00010 Diluted EPS from Discontinued Operations Basic Weighted Average Shares Outstanding 667650000 662664000 665758000 668958000 673220000 675581000 679449000 681768000 686465000 688804000 692741000 Diluted Weighted Average Shares Outstanding 677674000 672493000 676519000 679612000 682071000 682969000 685851000 687024000 692267000 695193000 698199000 Reported Normalized Diluted EPS 00010 Basic EPS 00114 00031 00028 00028 00027 00023 00017 00010 00010 00015 00010 00001 Diluted EPS 00112 00031 00028 00027 00026 00022 00016 00010 00010 00015 00010 Basic WASO 667650000 662664000 665758000 668958000 673220000 675581000 679449000 681768000 686465000 688804000 692741000 Diluted WASO 677674000 672493000 676519000 679612000 682071000 682969000 685851000 687024000 692267000 695193000 698199000 Fiscal year end September 28th., 2022. | USD For Paperwork Reduction Act Notice, see the seperate Instructions. important information Description Restated Certificate of Incorporation of PayPal Holdings, Inc. (incorporated by reference to Exhibit 3.01 to PayPal Holdings, Inc.'s Quarterly Report on Form 10-Q, as filed with the Commission on July 27, 2017). Amended and Restated Bylaws of PayPal Holdings, Inc. (incorporated by reference to Exhibit 3.1 to PayPal Holdings, Inc.'s Current Report on Form 8-K, as filed with the Commission on January 18, 2019). Opinion of Faegre Drinker Biddle & Reath LLP. Consent of PricewaterhouseCoopers LLP, Independent Registered Public Accounting Firm. Consent of Faegre Drinker Biddle & Reath LLP (included in Exhibit 5.1 to this Registration Statement). Power of Attorney (included on the signature page of this Registration Statement). All of Us Financial Inc. 2021 Equity Incentive Plan. Filing Fee Table. Business Checking For 24-hour account information, sign on to [pnc.com/mybusiness/](http://pnc.com/mybusiness/) Business Checking Account number: 47-2041-6547 - continued Activity Detail Deposits and Other Additions ACH Additions Date posted Amount Transaction description For the period 04/13/2022 to 04/29/2022 ZACHRY TYLER WOOD Primary account number: 47-2041-6547 Page 2 of 3 44678 00063 Reverse Corporate ACH Debit Effective 04-26-22 Reference number Checks and Other Deductions 22116905560149 Deductions Reference number Date posted Amount Transaction description 22116905560149 44677 00063 Corporate ACH Quickbooks 180041ntuit 1940868 Reference number Service Charges and Fees 22116905560149 Date posted Amount Transaction description on your next statement as a single line item entitled Service Waived - New Customer Period 44678 00036 Returned Item Fee (nsf) Detail of Services Used During Current Period Note: The total charge for the following services will be posted to your account on 05/02/2022 and will appear on your next statement a Charge Period Ending 04/29/2022, Description Volume Amount Account Maintenance Charge 70846743866 00000 Total For Services Used This Peiiod 00000 00000 Total Service (harge 00 00000 Reviewing Your Statement ('PNCBANK Please review this statement carefully and reconcile it with your records. Call the telephone number on the upper right side of the first page of this statement if: you have any questions regarding your account(s); your name or address is incorrect; • you have any questions regarding interest paid to an interest-bearing account. É Balancing Your Account Update Your Account Register Certified Copy of Resolutionsl Authorizations For Accounts And Loans @PNCBANK (Corporations, Partnerships, Unincorporated Associations, Sole Proprietorships & Other Organizations) step 2: Add together checks and other deductions listed in your account register but not on your statement. PNC Bank, National Association ("Bank") Taxpayer I.D. Number (TIN) C'eck Deduction Descretio• Anount (iv) (v) account or benefit, or in payment of the individual obligations of, any individual obligations of any such persons to the Bank without regard to the disposition or purpose of same as allowed by applicable law. D pNCBANK In addition but not by way of limitation, the Bank may take checks, drafts or other items payable to "cash", the Bank or the Customer, and pay the sums represented by such Items in cash to any person presenting such items or credit such Items to the account or obligations of any person presenting such items or any other person or entity as directed by any such person. Products and Services. Resolved that any of the persons listed in Section 3 above are authorized to enter into contracts and agreements, written or verbal, for any products or services now or in the future offered by the Bank, including but not limited to (i) cash management services, (ii) purchases or sales of foreign exchange, securities or other financial products, (iii) computer/internet-based products and services, (iv) wire transfer of funds from or to the accounts of the Customer at the Bank, and (v) ACH transactions, and the Bank may charge any accounts of the Customer at the Bank for such products or services. 00005 Taxpayer I.D. Number (TIN) OWNER ("Customer") 633-44-1725 are hereby authorized (i) to effect loans, advances and renewals at any time for the Customer from the Bank; (ii) to sign and deliver any notes (with or without warrant of attorney to confess judgment) and evidences of indebtedness of the Customer; (iii) to request the Bank to issue letters of credit and to sign and deliver to the bank any agreements on behalf of the Customer to reimburse the Bank for all payments made and expenses incurred by it under such letters of credit and drafts drawn pursuant thereto; (iv) to sign and deliver any instruments or documents on behalf of the Customer guaranteeing, endorsing or securing the payment of any debts or obligations of any person, form or corporation to the Bank; (v) to pledge, assign, transfer, mortgage, grant a security interest in or otherwise hypothecate to the Bank any stock, securities, commercial paper, warehouse receipts and other documents of title, bills, accounts receivable, contract rights, inventory, equipment, real property, and any other investment 00006 Revolving Credits. Resolved that in connection with any extension of credit obtained by any of the persons authorized in Section 5 above, that permit the Customer to effect multiple advances or draws under such credit, any of the persons listed in Sections 5 (Loans and Extensions of Credit) and 3 (Withdrawals and Endorsements) Resolution for ALPHABET 00007 Telephonic and Facsimile Requests. Resolved that the Bank is authorized to take any action authorized hereunder based upon (i) the telephone request of any person purporting to be a person authorized to act hereunder, (ii) the signature of any person authorized to act hereunder that is delivered to the Bank by facsimile transmission, or (iii) the telex originated by any of such persons, tested in accordance with such testing : Tr R •d Ming or serVlCö n lent services, (ii) purchases or sales of foreig xlll) computerfinternet-based products and services, (iv) wir he Customer at the Bank, and (v) ACH transactions, and the Ba the Bank for such products or services. It. Resolved that any one of the following: procedures as may be established between the Customer and the Bank from time to time. General. Resolved that a certified copy of these resolutiEmployer Taxes                             70842745000        XXX-XX-1725       
+                0        Rate                      
+                                This period        YTD        Taxes / Deductions        Current        YTD        
+                        Pay Schedulec        70842745000        70842745000        Federal Withholding        0        0        
+                        Annually        70842745000        70842745000        Federal Withholding        0        0        
+                        Units        Q1        TTM        Taxes / Deductions        Current        YTD        
+                        Q3        70842745000        70842745000        Federal Withholding        0        0        
+                        Q4        70842745000        70842745000        Federal Withholding        0        0        
+                        Net Pay                                                    RUTA        0        0        
+                                    70842745000                                 SUTA        0        0                             
+                  20210418                                          FICA - Medicare        0        0                
+                                                                  FICA - Social Security       0        8854  Earnings Statement                                       
+Taxes / Deductions                Stub Number: 1                                                                 -                                                                
+Taxable Maritial Status: Single        -                                                                                                                                        
+TX: 28                                                                        
+Federal 941 Deposit Report                                                                        
+Report Range:       5/4/2022 - 6/4/2022 Local ID:                                                                         
+EIN: 63-3441725       Local ID: TX:28       NO state Tax                                                                            
+Employee NAumboeurn:T3                Form:         SS-4                                                
+Description 5/4/2022 - 6/4/2022                                                                        
+Payment Amount (Total) $9,246,754,678,763.00 Display All                                                                        
+1. Social Security (Employee + Employer) $26,661.80                                                                        
+2. Medicare (Employee + Employer) $861,193,422,444.20 Hourly                                                                        
+3. Federal Income Tax $8,385,561,229,657.00                                                                        
+Note: this Report is generated based on THE payroll data for your reference only. Pease contact IRS office for special cases such as late Payment, previous overpayment, penalty                                        We assigned you Employer Identification Number :        88-1303491                                                      Best Time To Call                  
+Note: This report doesn't include the pay back amount of                                                                                       
+Employer Customized Report                                                6.35-                        ________________________        ________________________          DATE OF THIS NOTICE:        2022-03-18
+ADP                                                                        
+Report Range5/4/2022 - 6/4/2022 88-1656496  Loca ID:      28 :l ID: 633441725 State: All Local ID: 00037305581 $2,267,700.00                                                                        
+EIN:                                       	INTERNAL REVENUE SERVICE PO BOX 1300, CHARLOTTE, North Carolina 29201                           
+Employee Information        Pay to the order of                ZACHRY T WOOD                                             
+                                      AMPITHEATRE PARKWAY,                                                                             
+                                   MOUNTAIN VIEW, California 94043  
+INTERNAL REVENUE SERVICE,        *include interest paid, capital obligation, and underweighting                6858000000                                                                                                                                                 
+   PO BOX 1214,        Basic net income per share of Class A and B common stock and Class C capital stock (in dollars par share)            
+       22677000000                                                                                                                                                                                        
+   CHARLOTTE, NC 28201-1214        Diluted net income per share of Class A and Class B common stock and Class C capital stock (in dollars par share)                22677000000                                                                                            
+                   Basic net income per share of Class A and B common stock and Class C capital stock (in dollars par share)                
+                   22677000000                                                                                                                                                                                                  
+Taxes / Deductions        
+Current        YTD                                                                                                                                                                                        
+Fiscal year ends in Dec 31 | USD                                                                                                          
+Rate                                                                                                                                                                                                                 
+Total                                                                                                                           
+20210418                                                                
+39355        11247.64        4842.74        1132.57     
+                                                                                                                                   39355        27198.5        11710.47        2738.73                      
+                                                                   39355        17028.05                                           
+                                                                                   CP 575A (Rev. 2-2007) 99999999999                CP 575 A                                                          SS-4           
+                                                          Earnings Statement                                                       
+                                                                    
+IEIN:                                             88-1656496   
+                                                                         TxDL:                                  00037305581        SSN:                                                                      
+                                   
+        INTERNAL REVENUE 
+        SERVICE PO BOX 1300, CHARLOTTE, North Carolina 29201                           
+(IRS USE ONLY)          CP              575       B       WOOD       9999999999       SS-4                   20220139         
+                       
+                                This period        YTD        Taxes / Deductions        Current        YTD        
+                        Schedule        70842745000        70842745000        Federal Withholding        0        0        
+                        Annually        70842745000        70842745000        Federal Withholding        0        0        
+                        Units        Q1        TTM        Taxes / Deductions        Current        YTD        
+                        Q3        70842745000        70842745000        Federal Withholding       0        0        
+                        Q4        70842745000        70842745000        Federal Withholding       0        0                                                                                      
+                                                                             ATAA - Payments      0        0                         
+TX: 28CHECK NO.                                                      FICA - Social Security       0        8854        
+                  20210418                                                  FICA - Medicare       0        0                          
+Net Pay                                              FUTA       0        0                        
+70842745000                                          SUTA       0        0 
++Federal 941 Deposit Report                          RUTA       0        0               
+                                                                        
++Report Range5/4/2022 - 6/4/2022 Local ID:                
+                                                   Date of this notice:                                 44658                        
++EIN: 63-3441725State ID: 633441725                Employer Identification Number: 88-1656496                                                        
+Employee NAumboeurn:T3                
+Federal :941
+Schedule C 
+RefundForm :1099/A                                         
++Description 5/4/2022 - 6/4/2022                                                                        
++Payment Amount (Total) $9,246,754,678,763.00 Display All                                                                        
++1. Social Security (Employee + Employer) $26,661.80                                                                        
++2. Medicare (Employee + Employer) $861,193,422,444.20 Hourly                                                                        
++3. Federal Income Tax $8,385,561,229,657.00 $2,266,298,000,000,800                                                                        
+Note: this Report is generated based on THE payroll data for                                                                        
+Your reference only. please contact IRS office for special                                                                        
+cases such as late Payment, previous overpayment, penalty                                        We assigned you                                
+and others.                                                                        
++Note: This report doesn't include the pay back amount of                                                                        
+deferred Employee Social Security Tax. Commission                                                        Please                
+Employer Customized Report                                                6.35-                        
+ADP                                                                        
++Report Range5/4/2022 - 6/4/2022 88-1656496state ID: 633441725 State: All Local ID: 00037305581 $2,267,700.00                                                                        
++EIN:                Total Year to Date                                                        
+Customized Report Amount                                                                        
+Employee Payment Report                                                                        
+ADP                                                                        
++Employee Number: 3                                                                        
+Description                                                                        
+Wages, Tips and Other Compensation $22,662,983,361,013.70 Report Range: Tips                                                                        
+Taxable SS Wages $215,014.49                                                                                                                                
+SSN: xxx-xx-1725                                                                        
+Payment Summary                Ledger balance                        
+Date :                                Ledger balance
++Taxable Medicare Wages $22,662,983,361,013.70 Salary Vacation hourly OT                                                                        
++Advanced EIC Payment $0.00 $3,361,013.70                                                                        
++Federal Income Tax Withheld $8,385,561,229,657 Bonus $0.00 $0.00                                                                        
++Employee SS Tax Withheld $13,330.90 $0.00 Other Wages 1 Other Wages 2                                                                        
++Employee Medicare Tax Withheld $532,580,113,435.53 Total $0.00 $0.00                                                                        
++State Income Tax Withheld $0.00 $22,662,983,361,013.70                                                                        
+#NAME?                                                                        
++Customized Employer Tax Report $0.00 Deduction Summary                                                                        
+#NAME?                                                                        
+#NAME?                                                                        
++Employer Medicare Tax $13,330.90 $0.00                                                                        
++Federal Unemployment Tax $328,613,309,008.67 Tax Summary                                                                        
++State Unemployment Tax $441.70 Federal Tax Total Tax                                                                        
++Customized Deduction Report $840 $8,385,561,229,657@3,330.90 Local Tax                                                                        
++Health Insurance $0.00                                                                        
++401K $0.00 Advanced EIC Payment $8,918,141,356,423.43                                                                        
++$0.00 $0.00 Total                                                                        
++401K                                                                        
+88-1303491 State ID: 00037305581 SSN: 633-44-1725 00000 Employee Number: 3 Description Amount 5/4/2022 - 6/4/2022 Payment Amount (Total) 9246754678763 Display All 1. Social Security (Employee + Employer) 26662 2. Medicare (Employee + Employer) 861193422444 Hourly 3. Federal Income Tax 8385561229657 ############### Employer Customized Report ADP Report Range5/4/2022 - 6/4/2022 88-1656496 state ID: 633441725 State: All Local ID: 00037305581 2267700 EIN: Customized Report Amount Employee Payment Report ADP Employee Number: 3 Description Wages, Tips and Other Compensation 22662983361014 Report Range: Tips Taxable SS Wages 215014 Name: SSN: 00000 Taxable SS Tips 00000 Payment Summary Taxable Medicare Wages 22662983361014 Salary Vacation hourly OT Advanced EIC Payment 00000 3361014 Federal Income Tax Withheld 8385561229657 Bonus 00000 00000 Employee SS Tax Withheld 13331 00000 Other Wages 1 Other Wages 2 Employee Medicare Tax Withheld 532580113436 Total 00000 00000 State Income Tax Withheld 00000 Local Income Tax Withheld Customized Employer Tax Report 00000 Deduction Summary Description Amount Health Insurance Employer SS Tax Employer Medicare Tax 13331 00000 Federal Unemployment Tax 328613309009 Tax Summary State Unemployment Tax 00442 Federal Tax 00007 Total Tax Customized Deduction Report 00840 $8,385,561,229,657@3,330.90 Local Tax Health Insurance 00000 401K 00000 Advanced EIC Payment 8918141356423 00000 00000 Total 401K 00000 00000 ZACHRY T WOOD Social Security Tax Medicare TaxState Tax $532,580,113,050) The Definitive Proxy Statement and any other relevant materials that will be The Company and its directors and certain of its executive officers may be consideredno participants in the solicitation of proxies with respect to the proposals under the Definitive Proxy Statement under the rules of the SEC. Additional information regarding the participants in the proxy solicitations and a description of their direct and indirect interests, by security holdings or otherwise, also will be included in the Definitive Proxy Statement and other relevant materials to be filed with the SEC when they become available. . ############ 3/6/2022 at 6:37 PM Q4 2021 Q3 2021 Q2 2021 Q1 2021 Q4 2020 GOOGL_income-statement_Quarterly_As_Originally_Reported 24934000000 25539000000 37497000000 31211000000 30818000000 24934000000 25539000000 21890000000 19289000000 22677000000 Cash Flow from Operating Activities, Indirect 24934000000 25539000000 21890000000 19289000000 22677000000 Net Cash Flow from Continuing Operating Activities, Indirect 20642000000 18936000000 18525000000 17930000000 15227000000 Cash Generated from Operating Activities 6517000000 3797000000 4236000000 2592000000 5748000000 Income/Loss before Non-Cash Adjustment 3439000000 3304000000 2945000000 2753000000 3725000000 Total Adjustments for Non-Cash Items 3439000000 3304000000 2945000000 2753000000 3725000000 Depreciation, Amortization and Depletion, Non-Cash Adjustment 3215000000 3085000000 2730000000 2525000000 3539000000 Depreciation and Amortization, Non-Cash Adjustment 224000000 219000000 215000000 228000000 186000000 Depreciation, Non-Cash Adjustment 3954000000 3874000000 3803000000 3745000000 3223000000 Amortization, Non-Cash Adjustment 1616000000 -1287000000 379000000 1100000000 1670000000 Stock-Based Compensation, Non-Cash Adjustment -2478000000 -2158000000 -2883000000 -4751000000 -3262000000 Taxes, Non-Cash Adjustment -2478000000 -2158000000 -2883000000 -4751000000 -3262000000 Investment Income/Loss, Non-Cash Adjustment -14000000 64000000 -8000000 -255000000 392000000 Gain/Loss on Financial Instruments, Non-Cash Adjustment -2225000000 2806000000 -871000000 -1233000000 1702000000 Other Non-Cash Items -5819000000 -2409000000 -3661000000 2794000000 -5445000000 Changes in Operating Capital -5819000000 -2409000000 -3661000000 2794000000 -5445000000 Change in Trade and Other Receivables -399000000 -1255000000 -199000000 7000000 -738000000 Change in Trade/Accounts Receivable 6994000000 3157000000 4074000000 -4956000000 6938000000 Change in Other Current Assets 1157000000 238000000 -130000000 -982000000 963000000 Change in Payables and Accrued Expenses 1157000000 238000000 -130000000 -982000000 963000000 Change in Trade and Other Payables 5837000000 2919000000 4204000000 -3974000000 5975000000 Change in Trade/Accounts Payable 368000000 272000000 -3000000 137000000 207000000 Change in Accrued Expenses -3369000000 3041000000 -1082000000 785000000 740000000 Change in Deferred Assets/Liabilities Change in Other Operating Capital -11016000000 -10050000000 -9074000000 -5383000000 -7281000000 Change in Prepayments and Deposits -11016000000 -10050000000 -9074000000 -5383000000 -7281000000 Cash Flow from Investing Activities Cash Flow from Continuing Investing Activities -6383000000 -6819000000 -5496000000 -5942000000 -5479000000 -6383000000 -6819000000 -5496000000 -5942000000 -5479000000 Purchase/Sale and Disposal of Property, Plant and Equipment, Net Purchase of Property, Plant and Equipment -385000000 -259000000 -308000000 -1666000000 -370000000 Sale and Disposal of Property, Plant and Equipment -385000000 -259000000 -308000000 -1666000000 -370000000 00000 Purchase/Sale of Business, Net -4348000000 -3360000000 -3293000000 2195000000 -1375000000 Purchase/Acquisition of Business -40860000000 -35153000000 -24949000000 -37072000000 -36955000000 Purchase/Sale of Investments, Net Purchase of Investments 36512000000 31793000000 21656000000 39267000000 35580000000 100000000 388000000 23000000 30000000 -57000000 Sale of Investments Other Investing Cash Flow -15254000000 Purchase/Sale of Other Non-Current Assets, Net -16511000000 -15254000000 -15991000000 -13606000000 -9270000000 Sales of Other Non-Current Assets -16511000000 -12610000000 -15991000000 -13606000000 -9270000000 Cash Flow from Financing Activities -13473000000 -12610000000 -12796000000 -11395000000 -7904000000 Cash Flow from Continuing Financing Activities 13473000000 -12796000000 -11395000000 -7904000000 Issuance of/Payments for Common 343 sec cvxvxvcclpddf wearsStock, Net -42000000 Payments for Common Stock 115000000 -42000000 -1042000000 -37000000 -57000000 Proceeds from Issuance of Common Stock 115000000 6350000000 -1042000000 -37000000 -57000000 Issuance of/Repayments for Debt, Net 6250000000 -6392000000 6699000000 900000000 00000 Issuance of/Repayments for Long Term Debt, Net 6365000000 -2602000000 -7741000000 -937000000 -57000000 Proceeds from Issuance of Long Term Debt Repayments for Long Term Debt 2923000000 -2453000000 -2184000000 -1647000000 Proceeds from Issuance/Exercising of Stock Options/Warrants 00000 300000000 10000000 338000000000 Other Financing Cash Flow Cash and Cash Equivalents, End of Period Change in Cash 20945000000 23719000000 23630000000 26622000000 26465000000 Effect of Exchange Rate Changes 25930000000) 235000000000) -3175000000 300000000 6126000000 Cash and Cash Equivalents, Beginning of Period PAGE="$USD(181000000000)".XLS BRIN="$USD(146000000000)".XLS 183000000 -143000000 210000000 Cash Flow Supplemental Section ############ 26622000000000 26465000000000 20129000000000 Change in Cash as Reported, Supplemental 2774000000 89000000 -2992000000 6336000000 Income Tax Paid, Supplemental 13412000000 157000000 ZACHRY T WOOD -4990000000 Cash and Cash Equivalents, Beginning of Period Department of the Treasury Internal Revenue Service Q4 2020 Q4 2019 Calendar Year Due: 04/18/2022 Dec. 31, 2020 Dec. 31, 2019 USD in "000'"s Repayments for Long Term Debt 182527 161857 Costs and expenses: Cost of revenues 84732 71896 Research and development 27573 26018 Sales and marketing 17946 18464 General and administrative 11052 09551 European Commission fines 00000 01697 Total costs and expenses 141303 127626 Income from operations 41224 34231 Other income (expense), net 6858000000 05394 Income before income taxes 22677000000 19289000000 Provision for income taxes 22677000000 19289000000 Net income 22677000000 19289000000 *include interest paid, capital obligation, and underweighting Basic net income per share of Class A and B common stock and Class C capital stock (in dollars par share) Diluted net income per share of Class A and Class B common stock and Class C capital stock (in dollars par share) *include interest paid, capital obligation, and underweighting Basic net income per share of Class A and B common stock and Class C capital stock (in dollars par share) Diluted net income per share of Class A and Class B common stock and Class C capital stock (in dollars par share) 20210418 Rate Units Total YTD Taxes / Deductions Current YTD - - 70842745000 70842745000 Federal Withholding 00000 00000 FICA - Social Security 00000 08854 FICA - Medicare 00000 00000 Employer Taxes FUTA 00000 00000 SUTA 00000 00000 EIN: 61-1767919 ID : 00037305581 SSN: 633441725 Gross 70842745000 Earnings Statement Taxes / Deductions Stub Number: 1 00000 Net Pay SSN Pay Schedule Pay Period Sep 28, 2022 to Sep 29, 2023 Pay Date 44669 70842745000 XXX-XX-1725 Annually CHECK NO. 5560149 INTERNAL REVENUE SERVICE, PO BOX 1214, CHARLOTTE, NC 28201-1214 ZACHRY WOOD 00015 76033000000 20642000000 18936000000 18525000000 17930000000 15227000000 11247000000 6959000000 6836000000 10671000000 7068000000 For Disclosure, Privacy Act, and Paperwork Reduction Act Notice, see separate instructions. 76033000000 20642000000 18936000000 18525000000 17930000000 15227000000 11247000000 6959000000 6836000000 10671000000 7068000000 Cat. No. 11320B 76033000000 20642000000 18936000000 18525000000 17930000000 15227000000 11247000000 6959000000 6836000000 10671000000 7068000000 Form 1040 (2021) 76033000000 20642000000 18936000000 Reported Normalized and Operating Income/Expense Supplemental Section Total Revenue as Reported, Supplemental 257637000000 75325000000 65118000000 61880000000 55314000000 56898000000 46173000000 38297000000 41159000000 46075000000 40499000000 Total Operating Profit/Loss as Reported, Supplemental 78714000000 21885000000 21031000000 19361000000 16437000000 15651000000 11213000000 6383000000 7977000000 9266000000 9177000000 Reported Effective Tax Rate 00000 00000 00000 00000 00000 00000 00000 00000 Reported Normalized Income 6836000000 Reported Normalized Operating Profit 7977000000 Other Adjustments to Net Income Available to Common Stockholders Discontinued Operations Basic EPS 00114 00031 00028 00028 00027 00023 00017 00010 00010 00015 00010 Basic EPS from Continuing Operations 00114 00031 00028 00028 00027 00022 00017 00010 00010 00015 00010 Basic EPS from Discontinued Operations Diluted EPS 00112 00031 00028 00027 00026 00022 00016 00010 00010 00015 00010 Diluted EPS from Continuing Operations 00112 00031 00028 00027 00026 00022 00016 00010 00010 00015 00010 Diluted EPS from Discontinued Operations Basic Weighted Average Shares Outstanding 667650000 662664000 665758000 668958000 673220000 675581000 679449000 681768000 686465000 688804000 692741000 Diluted Weighted Average Shares Outstanding 677674000 672493000 676519000 679612000 682071000 682969000 685851000 687024000 692267000 695193000 698199000 Reported Normalized Diluted EPS 00010 Basic EPS 00114 00031 00028 00028 00027 00023 00017 00010 00010 00015 00010 00001 Diluted EPS 00112 00031 00028 00027 00026 00022 00016 00010 00010 00015 00010 Basic WASO 667650000 662664000 665758000 668958000 673220000 675581000 679449000 681768000 686465000 688804000 692741000 Diluted WASO 677674000 672493000 676519000 679612000 682071000 682969000 685851000 687024000 692267000 695193000 698199000 Fiscal year end September 28th., 2022. | USD For Paperwork Reduction Act Notice, see the seperate Instructions. important information Description Restated Certificate of Incorporation of PayPal Holdings, Inc. (incorporated by reference to Exhibit 3.01 to PayPal Holdings, Inc.'s Quarterly Report on Form 10-Q, as filed with the Commission on July 27, 2017). Amended and Restated Bylaws of PayPal Holdings, Inc. (incorporated by reference to Exhibit 3.1 to PayPal Holdings, Inc.'s Current Report on Form 8-K, as filed with the Commission on January 18, 2019). Opinion of Faegre Drinker Biddle & Reath LLP. Consent of PricewaterhouseCoopers LLP, Independent Registered Public Accounting Firm. Consent of Faegre Drinker Biddle & Reath LLP (included in Exhibit 5.1 to this Registration Statement). Power of Attorney (included on the signature page of this Registration Statement). All of Us Financial Inc. 2021 Equity Incentive Plan. Filing Fee Table. Business Checking For 24-hour account information, sign on to [pnc.com/mybusiness/](http://pnc.com/mybusiness/) Business Checking Account number: 47-2041-6547 - continued Activity Detail Deposits and Other Additions ACH Additions Date posted Amount Transaction description For the period 04/13/2022 to 04/29/2022 ZACHRY TYLER WOOD Primary account number: 47-2041-6547 Page 2 of 3 44678 00063 Reverse Corporate ACH Debit Effective 04-26-22 Reference number Checks and Other Deductions 22116905560149 Deductions Reference number Date posted Amount Transaction description 22116905560149 44677 00063 Corporate ACH Quickbooks 180041ntuit 1940868 Reference number Service Charges and Fees 22116905560149 Date posted Amount Transaction description on your next statement as a single line item entitled Service Waived - New Customer Period 44678 00036 Returned Item Fee (nsf) Detail of Services Used During Current Period Note: The total charge for the following services will be posted to your account on 05/02/2022 and will appear on your next statement a Charge Period Ending 04/29/2022, Description Volume Amount Account Maintenance Charge 70846743866 00000 Total For Services Used This Peiiod 00000 00000 Total Service (harge 00 00000 Reviewing Your Statement ('PNCBANK Please review this statement carefully and reconcile it with your records. Call the telephone number on the upper right side of the first page of this statement if: you have any questions regarding your account(s); your name or address is incorrect; • you have any questions regarding interest paid to an interest-bearing account. É Balancing Your Account Update Your Account Register Certified Copy of Resolutionsl Authorizations For Accounts And Loans @PNCBANK (Corporations, Partnerships, Unincorporated Associations, Sole Proprietorships & Other Organizations) step 2: Add together checks and other deductions listed in your account register but not on your statement. PNC Bank, National Association ("Bank") Taxpayer I.D. Number (TIN) C'eck Deduction Descretio• Anount (iv) (v) account or benefit, or in payment of the individual obligations of, any individual obligations of any such persons to the Bank without regard to the disposition or purpose of same as allowed by applicable law. D pNCBANK In addition but not by way of limitation, the Bank may take checks, drafts or other items payable to "cash", the Bank or the Customer, and pay the sums represented by such Items in cash to any person presenting such items or credit such Items to the account or obligations of any person presenting such items or any other person or entity as directed by any such person. Products and Services. Resolved that any of the persons listed in Section 3 above are authorized to enter into contracts and agreements, written or verbal, for any products or services now or in the future offered by the Bank, including but not limited to (i) cash management services, (ii) purchases or sales of foreign exchange, securities or other financial products, (iii) computer/internet-based products and services, (iv) wire transfer of funds from or to the accounts of the Customer at the Bank, and (v) ACH transactions, and the Bank may charge any accounts of the Customer at the Bank for such products or services. 00005 Taxpayer I.D. Number (TIN) OWNER ("Customer") 633-44-1725 are hereby authorized (i) to effect loans, advances and renewals at any time for the Customer from the Bank; (ii) to sign and deliver any notes (with or without warrant of attorney to confess judgment) and evidences of indebtedness of the Customer; (iii) to request the Bank to issue letters of credit and to sign and deliver to the bank any agreements on behalf of the Customer to reimburse the Bank for all payments made and expenses incurred by it under such letters of credit and drafts drawn pursuant thereto; (iv) to sign and deliver any instruments or documents on behalf of the Customer guaranteeing, endorsing or securing the payment of any debts or obligations of any person, form or corporation to the Bank; (v) to pledge, assign, transfer, mortgage, grant a security interest in or otherwise hypothecate to the Bank any stock, securities, commercial paper, warehouse receipts and other documents of title, bills, accounts receivable, contract rights, inventory, equipment, real property, and any other investment 00006 Revolving Credits. Resolved that in connection with any extension of credit obtained by any of the persons authorized in Section 5 above, that permit the Customer to effect multiple advances or draws under such credit, any of the persons listed in Sections 5 (Loans and Extensions of Credit) and 3 (Withdrawals and Endorsements) Resolution for ALPHABET 00007 Telephonic and Facsimile Requests. Resolved that the Bank is authorized to take any action authorized hereunder based upon (i) the telephone request of any person purporting to be a person authorized to act hereunder, (ii) the signature of any person authorized to act hereunder that is delivered to the Bank by facsimile transmission, or (iii) the telex originated by any of such persons, tested in accordance with such testing : Tr R •d Ming or serVlCö n lent services, (ii) purchases or sales of foreig xlll) computerfinternet-based products and services, (iv) wir he Customer at the Bank, and (v) ACH transactions, and the Ba the Bank for such products or services. It. Resolved that any one of the following: procedures as may be established between the Customer and the Bank from time to time. General. Resolved that a certified copy of these resolutiEmployer Taxes                             70842745000        XXX-XX-1725       
+                0        Rate                      
+                                This period        YTD        Taxes / Deductions        Current        YTD        
+                        Pay Schedulec        70842745000        70842745000        Federal Withholding        0        0        
+                        Annually        70842745000        70842745000        Federal Withholding        0        0        
+                        Units        Q1        TTM        Taxes / Deductions        Current        YTD        
+                        Q3        70842745000        70842745000        Federal Withholding        0        0        
+                        Q4        70842745000        70842745000        Federal Withholding        0        0        
+                        Net Pay                                                    RUTA        0        0        
+                                    70842745000                                 SUTA        0        0                             
+                  20210418                                          FICA - Medicare        0        0                
+                                                                  FICA - Social Security       0        8854  Earnings Statement                                       
+Taxes / Deductions                Stub Number: 1                                                                 -                                                                
+Taxable Maritial Status: Single        -                                                                                                                                        
+TX: 28                                                                        
+Federal 941 Deposit Report                                                                        
+Report Range:       5/4/2022 - 6/4/2022 Local ID:                                                                         
+EIN: 63-3441725       Local ID: TX:28       NO state Tax                                                                            
+Employee NAumboeurn:T3                Form:         SS-4                                                
+Description 5/4/2022 - 6/4/2022                                                                        
+Payment Amount (Total) $9,246,754,678,763.00 Display All                                                                        
+1. Social Security (Employee + Employer) $26,661.80                                                                        
+2. Medicare (Employee + Employer) $861,193,422,444.20 Hourly                                                                        
+3. Federal Income Tax $8,385,561,229,657.00                                                                        
+Note: this Report is generated based on THE payroll data for your reference only. Pease contact IRS office for special cases such as late Payment, previous overpayment, penalty                                        We assigned you Employer Identification Number :        88-1303491                                                      Best Time To Call                  
+Note: This report doesn't include the pay back amount of                                                                                       
+Employer Customized Report                                                6.35-                        ________________________        ________________________          DATE OF THIS NOTICE:        2022-03-18
+ADP                                                                        
+Report Range5/4/2022 - 6/4/2022 88-1656496  Loca ID:      28 :l ID: 633441725 State: All Local ID: 00037305581 $2,267,700.00                                                                        
+EIN:                Total Year to Date                                                        
+Customized Report Amount                     																																		
+Employee Information        Pay to the order of                ZACHRY T WOOD                                             																																			
+                                      AMPITHEATRE PARKWAY,                                                                             																																			
+                                   MOUNTAIN VIEW, California 94043  																																			
+INTERNAL REVENUE SERVICE,        *include interest paid, capital obligation, and underweighting                6858000000                                                                                                                                                 																																			
+   PO BOX 1214,        Basic net income per share of Class A and B common stock and Class C capital stock (in dollars par share)            																																			
+22677000000																																			
+   CHARLOTTE, NC 28201-1214        Diluted net income per share of Class A and Class B common stock and Class C capital stock (in dollars par share)                22677000000                                                                                            																																			
+                   Basic net income per share of Class A and B common stock and Class C capital stock (in dollars par share)                																																			
+22677000000																																			
+Taxes / Deductions        																																			
+Current        YTD                                                                                                                                                                                        																																			
+Fiscal year ends in Dec 31 | USD                                                                                                          																																			
+Rate                                                                                                                                                                                                                 																																			
+Total                                                                                                                           																																			
+20210418																																			
+39355        11247.64        4842.74        1132.57     																																			
+                                                                                                                                   39355        27198.5        11710.47        2738.73                      																																			
+                                                                   39355        17028.05                                           																																			
+                                                                                   CP 575A (Rev. 2-2007) 99999999999                CP 575 A                                                          SS-4           																																			
+                                                          Earnings Statement                                                       																																			
+                                                                    																																			
+IEIN:                                             88-1656496   																																			
+                                                                         TxDL:                                  00037305581        SSN:                                                                      																																			
+                                   																																			
+        INTERNAL REVENUE 																																			
+        SERVICE PO BOX 1300, CHARLOTTE, North Carolina 29201                           																																			
+(IRS USE ONLY)          CP              575       B       WOOD       9999999999       SS-4                   20220139         																																			
+                       																																			
+                                This period        YTD        Taxes / Deductions        Current        YTD        																																			
+                        Schedule        70842745000        70842745000        Federal Withholding        0        0        																																			
+                        Annually        70842745000        70842745000        Federal Withholding        0        0        																																			
+                        Units        Q1        TTM        Taxes / Deductions        Current        YTD        																																			
+                        Q3        70842745000        70842745000        Federal Withholding       0        0        																																			
+                        Q4        70842745000        70842745000        Federal Withholding       0        0                                                                                      																																			
+                                                                             ATAA - Payments      0        0                         																																			
+TX: 28CHECK NO.                                                      FICA - Social Security       0        8854        																																			
+                  20210418                                                  FICA - Medicare       0        0                          																																			
+Net Pay                                              FUTA       0        0                        																																			
+70842745000                                          SUTA       0        0 																																			
++Federal 941 Deposit Report                          RUTA       0        0               																																			
+                                                                        																																			
++Report Range5/4/2022 - 6/4/2022 Local ID:                																																			
+                                                   Date of this notice:                                 44658                        																																			
++EIN: 63-3441725State ID: 633441725                Employer Identification Number: 88-1656496                                                        																																			
+Employee NAumboeurn:T3                																																			
+Federal :941																																			
+Schedule C 																																			
+RefundForm :1099/A                                         																																			
++Description 5/4/2022 - 6/4/2022                                                                        																																			
++Payment Amount (Total) $9,246,754,678,763.00 Display All                                                                        																																			
++1. Social Security (Employee + Employer) $26,661.80                                                                        																																			
++2. Medicare (Employee + Employer) $861,193,422,444.20 Hourly                                                                        																																			
++3. Federal Income Tax $8,385,561,229,657.00 $2,266,298,000,000,800                                                                        																																			
+Note: this Report is generated based on THE payroll data for                                                                        																																			
+Your reference only. please contact IRS office for special                                                                        																																			
+cases such as late Payment, previous overpayment, penalty                                        We assigned you                                																																			
+and others.                                                                        																																			
++Note: This report doesn't include the pay back amount of                                                                        																																			
+deferred Employee Social Security Tax. Commission                                                        Please                																																			
+Employer Customized Report                                                6.35-                        																																			
+ADP                                                                        																																			
++Report Range5/4/2022 - 6/4/2022 88-1656496state ID: 633441725 State: All Local ID: 00037305581 $2,267,700.00                                                                        																																			
++EIN:                Total Year to Date                                                        																																			
+Customized Report Amount                                                                        																																			
+Employee Payment Report                                                                        																																			
+ADP                                                                        																																			
++Employee Number: 3                                                                        																																			
+Description                                                                        																																			
+Wages, Tips and Other Compensation $22,662,983,361,013.70 Report Range: Tips                                                                        																																			
+Taxable SS Wages $215,014.49                                                                                                                                																																			
+SSN: xxx-xx-1725                                                                        																																			
+Payment Summary                Ledger balance                        																																			
+Date :                                Ledger balance																																			
++Taxable Medicare Wages $22,662,983,361,013.70 Salary Vacation hourly OT                                                                        																																			
++Advanced EIC Payment $0.00 $3,361,013.70                                                                        																																			
++Federal Income Tax Withheld $8,385,561,229,657 Bonus $0.00 $0.00                                                                        																																			
++Employee SS Tax Withheld $13,330.90 $0.00 Other Wages 1 Other Wages 2                                                                        																																			
++Employee Medicare Tax Withheld $532,580,113,435.53 Total $0.00 $0.00                                                                        																																			
++State Income Tax Withheld $0.00 $22,662,983,361,013.70                                                                        																																			
+#NAME?                                                                        																																			
++Customized Employer Tax Report $0.00 Deduction Summary                                                                        																																			
+#NAME?                                                                        																																			
+#NAME?                                                                        																																			
++Employer Medicare Tax $13,330.90 $0.00                                                                        																																			
++Federal Unemployment Tax $328,613,309,008.67 Tax Summary                                                                        																																			
++State Unemployment Tax $441.70 Federal Tax Total Tax                                                                        																																			
++Customized Deduction Report $840 $8,385,561,229,657@3,330.90 Local Tax                                                                        																																			
++Health Insurance $0.00                                                                        																																			
++401K $0.00 Advanced EIC Payment $8,918,141,356,423.43                                                                        																																			
++$0.00 $0.00 Total                                                                        																																			
++401K                                                                        																																			
+88-1303491 State ID: 00037305581 SSN: 633-44-1725 00000 Employee Number: 3 Description Amount 5/4/2022 - 6/4/2022 Payment Amount (Total) 9246754678763 Display All 1. Social Security (Employee + Employer) 26662 2. Medicare (Employee + Employer) 861193422444 Hourly 3. Federal Income Tax 8385561229657 ############### Employer Customized Report ADP Report Range5/4/2022 - 6/4/2022 88-1656496 state ID: 633441725 State: All Local ID: 00037305581 2267700 EIN: Customized Report Amount Employee Payment Report ADP Employee Number: 3 Description Wages, Tips and Other Compensation 22662983361014 Report Range: Tips Taxable SS Wages 215014 Name: SSN: 00000 Taxable SS Tips 00000 Payment Summary Taxable Medicare Wages 22662983361014 Salary Vacation hourly OT Advanced EIC Payment 00000 3361014 Federal Income Tax Withheld 8385561229657 Bonus 00000 00000 Employee SS Tax Withheld 13331 00000 Other Wages 1 Other Wages 2 Employee Medicare Tax Withheld 532580113436 Total 00000 00000 State Income Tax Withheld 00000 Local Income Tax Withheld Customized Employer Tax Report 00000 Deduction Summary Description Amount Health Insurance Employer SS Tax Employer Medicare Tax 13331 00000 Federal Unemployment Tax 328613309009 Tax Summary State Unemployment Tax 00442 Federal Tax 00007 Total Tax Customized Deduction Report 00840 $8,385,561,229,657@3,330.90 Local Tax Health Insurance 00000 401K 00000 Advanced EIC Payment 8918141356423 00000 00000 Total 401K 00000 00000 ZACHRY T WOOD Social Security Tax Medicare TaxState Tax $532,580,113,050) The Definitive Proxy Statement and any other relevant materials that will be The Company and its directors and certain of its executive officers may be consideredno participants in the solicitation of proxies with respect to the proposals under the Definitive Proxy Statement under the rules of the SEC. Additional information regarding the participants in the proxy solicitations and a description of their direct and indirect interests, by security holdings or otherwise, also will be included in the Definitive Proxy Statement and other relevant materials to be filed with the SEC when they become available. . ############ 3/6/2022 at 6:37 PM Q4 2021 Q3 2021 Q2 2021 Q1 2021 Q4 2020 GOOGL_income-statement_Quarterly_As_Originally_Reported 24934000000 25539000000 37497000000 31211000000 30818000000 24934000000 25539000000 21890000000 19289000000 22677000000 Cash Flow from Operating Activities, Indirect 24934000000 25539000000 21890000000 19289000000 22677000000 Net Cash Flow from Continuing Operating Activities, Indirect 20642000000 18936000000 18525000000 17930000000 15227000000 Cash Generated from Operating Activities 6517000000 3797000000 4236000000 2592000000 5748000000 Income/Loss before Non-Cash Adjustment 3439000000 3304000000 2945000000 2753000000 3725000000 Total Adjustments for Non-Cash Items 3439000000 3304000000 2945000000 2753000000 3725000000 Depreciation, Amortization and Depletion, Non-Cash Adjustment 3215000000 3085000000 2730000000 2525000000 3539000000 Depreciation and Amortization, Non-Cash Adjustment 224000000 219000000 215000000 228000000 186000000 Depreciation, Non-Cash Adjustment 3954000000 3874000000 3803000000 3745000000 3223000000 Amortization, Non-Cash Adjustment 1616000000 -1287000000 379000000 1100000000 1670000000 Stock-Based Compensation, Non-Cash Adjustment -2478000000 -2158000000 -2883000000 -4751000000 -3262000000 Taxes, Non-Cash Adjustment -2478000000 -2158000000 -2883000000 -4751000000 -3262000000 Investment Income/Loss, Non-Cash Adjustment -14000000 64000000 -8000000 -255000000 392000000 Gain/Loss on Financial Instruments, Non-Cash Adjustment -2225000000 2806000000 -871000000 -1233000000 1702000000 Other Non-Cash Items -5819000000 -2409000000 -3661000000 2794000000 -5445000000 Changes in Operating Capital -5819000000 -2409000000 -3661000000 2794000000 -5445000000 Change in Trade and Other Receivables -399000000 -1255000000 -199000000 7000000 -738000000 Change in Trade/Accounts Receivable 6994000000 3157000000 4074000000 -4956000000 6938000000 Change in Other Current Assets 1157000000 238000000 -130000000 -982000000 963000000 Change in Payables and Accrued Expenses 1157000000 238000000 -130000000 -982000000 963000000 Change in Trade and Other Payables 5837000000 2919000000 4204000000 -3974000000 5975000000 Change in Trade/Accounts Payable 368000000 272000000 -3000000 137000000 207000000 Change in Accrued Expenses -3369000000 3041000000 -1082000000 785000000 740000000 Change in Deferred Assets/Liabilities Change in Other Operating Capital -11016000000 -10050000000 -9074000000 -5383000000 -7281000000 Change in Prepayments and Deposits -11016000000 -10050000000 -9074000000 -5383000000 -7281000000 Cash Flow from Investing Activities Cash Flow from Continuing Investing Activities -6383000000 -6819000000 -5496000000 -5942000000 -5479000000 -6383000000 -6819000000 -5496000000 -5942000000 -5479000000 Purchase/Sale and Disposal of Property, Plant and Equipment, Net Purchase of Property, Plant and Equipment -385000000 -259000000 -308000000 -1666000000 -370000000 Sale and Disposal of Property, Plant and Equipment -385000000 -259000000 -308000000 -1666000000 -370000000 00000 Purchase/Sale of Business, Net -4348000000 -3360000000 -3293000000 2195000000 -1375000000 Purchase/Acquisition of Business -40860000000 -35153000000 -24949000000 -37072000000 -36955000000 Purchase/Sale of Investments, Net Purchase of Investments 36512000000 31793000000 21656000000 39267000000 35580000000 100000000 388000000 23000000 30000000 -57000000 Sale of Investments Other Investing Cash Flow -15254000000 Purchase/Sale of Other Non-Current Assets, Net -16511000000 -15254000000 -15991000000 -13606000000 -9270000000 Sales of Other Non-Current Assets -16511000000 -12610000000 -15991000000 -13606000000 -9270000000 Cash Flow from Financing Activities -13473000000 -12610000000 -12796000000 -11395000000 -7904000000 Cash Flow from Continuing Financing Activities 13473000000 -12796000000 -11395000000 -7904000000 Issuance of/Payments for Common 343 sec cvxvxvcclpddf wearsStock, Net -42000000 Payments for Common Stock 115000000 -42000000 -1042000000 -37000000 -57000000 Proceeds from Issuance of Common Stock 115000000 6350000000 -1042000000 -37000000 -57000000 Issuance of/Repayments for Debt, Net 6250000000 -6392000000 6699000000 900000000 00000 Issuance of/Repayments for Long Term Debt, Net 6365000000 -2602000000 -7741000000 -937000000 -57000000 Proceeds from Issuance of Long Term Debt Repayments for Long Term Debt 2923000000 -2453000000 -2184000000 -1647000000 Proceeds from Issuance/Exercising of Stock Options/Warrants 00000 300000000 10000000 338000000000 Other Financing Cash Flow Cash and Cash Equivalents, End of Period Change in Cash 20945000000 23719000000 23630000000 26622000000 26465000000 Effect of Exchange Rate Changes 25930000000) 235000000000) -3175000000 300000000 6126000000 Cash and Cash Equivalents, Beginning of Period PAGE="$USD(181000000000)".XLS BRIN="$USD(146000000000)".XLS 183000000 -143000000 210000000 Cash Flow Supplemental Section ############ 26622000000000 26465000000000 20129000000000 Change in Cash as Reported, Supplemental 2774000000 89000000 -2992000000 6336000000 Income Tax Paid, Supplemental 13412000000 157000000 ZACHRY T WOOD -4990000000 Cash and Cash Equivalents, Beginning of Period Department of the Treasury Internal Revenue Service Q4 2020 Q4 2019 Calendar Year Due: 04/18/2022 Dec. 31, 2020 Dec. 31, 2019 USD in "000'"s Repayments for Long Term Debt 182527 161857 Costs and expenses: Cost of revenues 84732 71896 Research and development 27573 26018 Sales and marketing 17946 18464 General and administrative 11052 09551 European Commission fines 00000 01697 Total costs and expenses 141303 127626 Income from operations 41224 34231 Other income (expense), net 6858000000 05394 Income before income taxes 22677000000 19289000000 Provision for income taxes 22677000000 19289000000 Net income 22677000000 19289000000 *include interest paid, capital obligation, and underweighting Basic net income per share of Class A and B common stock and Class C capital stock (in dollars par share) Diluted net income per share of Class A and Class B common stock and Class C capital stock (in dollars par share) *include interest paid, capital obligation, and underweighting Basic net income per share of Class A and B common stock and Class C capital stock (in dollars par share) Diluted net income per share of Class A and Class B common stock and Class C capital stock (in dollars par share) 20210418 Rate Units Total YTD Taxes / Deductions Current YTD - - 70842745000 70842745000 Federal Withholding 00000 00000 FICA - Social Security 00000 08854 FICA - Medicare 00000 00000 Employer Taxes FUTA 00000 00000 SUTA 00000 00000 EIN: 61-1767919 ID : 00037305581 SSN: 633441725 Gross 70842745000 Earnings Statement Taxes / Deductions Stub Number: 1 00000 Net Pay SSN Pay Schedule Pay Period Sep 28, 2022 to Sep 29, 2023 Pay Date 44669 70842745000 XXX-XX-1725 Annually CHECK NO. 5560149 INTERNAL REVENUE SERVICE, PO BOX 1214, CHARLOTTE, NC 28201-1214 ZACHRY WOOD 00015 76033000000 20642000000 18936000000 18525000000 17930000000 15227000000 11247000000 6959000000 6836000000 10671000000 7068000000 For Disclosure, Privacy Act, and Paperwork Reduction Act Notice, see separate instructions. 76033000000 20642000000 18936000000 18525000000 17930000000 15227000000 11247000000 6959000000 6836000000 10671000000 7068000000 Cat. No. 11320B 76033000000 20642000000 18936000000 18525000000 17930000000 15227000000 11247000000 6959000000 6836000000 10671000000 7068000000 Form 1040 (2021) 76033000000 20642000000 18936000000 Reported Normalized and Operating Income/Expense Supplemental Section Total Revenue as Reported, Supplemental 257637000000 75325000000 65118000000 61880000000 55314000000 56898000000 46173000000 38297000000 41159000000 46075000000 40499000000 Total Operating Profit/Loss as Reported, Supplemental 78714000000 21885000000 21031000000 19361000000 16437000000 15651000000 11213000000 6383000000 7977000000 9266000000 9177000000 Reported Effective Tax Rate 00000 00000 00000 00000 00000 00000 00000 00000 Reported Normalized Income 6836000000 Reported Normalized Operating Profit 7977000000 Other Adjustments to Net Income Available to Common Stockholders Discontinued Operations Basic EPS 00114 00031 00028 00028 00027 00023 00017 00010 00010 00015 00010 Basic EPS from Continuing Operations 00114 00031 00028 00028 00027 00022 00017 00010 00010 00015 00010 Basic EPS from Discontinued Operations Diluted EPS 00112 00031 00028 00027 00026 00022 00016 00010 00010 00015 00010 Diluted EPS from Continuing Operations 00112 00031 00028 00027 00026 00022 00016 00010 00010 00015 00010 Diluted EPS from Discontinued Operations Basic Weighted Average Shares Outstanding 667650000 662664000 665758000 668958000 673220000 675581000 679449000 681768000 686465000 688804000 692741000 Diluted Weighted Average Shares Outstanding 677674000 672493000 676519000 679612000 682071000 682969000 685851000 687024000 692267000 695193000 698199000 Reported Normalized Diluted EPS 00010 Basic EPS 00114 00031 00028 00028 00027 00023 00017 00010 00010 00015 00010 00001 Diluted EPS 00112 00031 00028 00027 00026 00022 00016 00010 00010 00015 00010 Basic WASO 667650000 662664000 665758000 668958000 673220000 675581000 679449000 681768000 686465000 688804000 692741000 Diluted WASO 677674000 672493000 676519000 679612000 682071000 682969000 685851000 687024000 692267000 695193000 698199000 Fiscal year end September 28th., 2022. | USD For Paperwork Reduction Act Notice, see the seperate Instructions. important information Description Restated Certificate of Incorporation of PayPal Holdings, Inc. (incorporated by reference to Exhibit 3.01 to PayPal Holdings, Inc.'s Quarterly Report on Form 10-Q, as filed with the Commission on July 27, 2017). Amended and Restated Bylaws of PayPal Holdings, Inc. (incorporated by reference to Exhibit 3.1 to PayPal Holdings, Inc.'s Current Report on Form 8-K, as filed with the Commission on January 18, 2019). Opinion of Faegre Drinker Biddle & Reath LLP. Consent of PricewaterhouseCoopers LLP, Independent Registered Public Accounting Firm. Consent of Faegre Drinker Biddle & Reath LLP (included in Exhibit 5.1 to this Registration Statement). Power of Attorney (included on the signature page of this Registration Statement). All of Us Financial Inc. 2021 Equity Incentive Plan. Filing Fee Table. Business Checking For 24-hour account information, sign on to [pnc.com/mybusiness/](http://pnc.com/mybusiness/) Business Checking Account number: 47-2041-6547 - continued Activity Detail Deposits and Other Additions ACH Additions Date posted Amount Transaction description For the period 04/13/2022 to 04/29/2022 ZACHRY TYLER WOOD Primary account number: 47-2041-6547 Page 2 of 3 44678 00063 Reverse Corporate ACH Debit Effective 04-26-22 Reference number Checks and Other Deductions 22116905560149 Deductions Reference number Date posted Amount Transaction description 22116905560149 44677 00063 Corporate ACH Quickbooks 180041ntuit 1940868 Reference number Service Charges and Fees 22116905560149 Date posted Amount Transaction description on your next statement as a single line item entitled Service Waived - New Customer Period 44678 00036 Returned Item Fee (nsf) Detail of Services Used During Current Period Note: The total charge for the following services will be posted to your account on 05/02/2022 and will appear on your next statement a Charge Period Ending 04/29/2022, Description Volume Amount Account Maintenance Charge 70846743866 00000 Total For Services Used This Peiiod 00000 00000 Total Service (harge 00 00000 Reviewing Your Statement ('PNCBANK Please review this statement carefully and reconcile it with your records. Call the telephone number on the upper right side of the first page of this statement if: you have any questions regarding your account(s); your name or address is incorrect; • you have any questions regarding interest paid to an interest-bearing account. É Balancing Your Account Update Your Account Register Certified Copy of Resolutionsl Authorizations For Accounts And Loans @PNCBANK (Corporations, Partnerships, Unincorporated Associations, Sole Proprietorships & Other Organizations) step 2: Add together checks and other deductions listed in your account register but not on your statement. PNC Bank, National Association ("Bank") Taxpayer I.D. Number (TIN) C'eck Deduction Descretio• Anount (iv) (v) account or benefit, or in payment of the individual obligations of, any individual obligations of any such persons to the Bank without regard to the disposition or purpose of same as allowed by applicable law. D pNCBANK In addition but not by way of limitation, the Bank may take checks, drafts or other items payable to "cash", the Bank or the Customer, and pay the sums represented by such Items in cash to any person presenting such items or credit such Items to the account or obligations of any person presenting such items or any other person or entity as directed by any such person. Products and Services. Resolved that any of the persons listed in Section 3 above are authorized to enter into contracts and agreements, written or verbal, for any products or services now or in the future offered by the Bank, including but not limited to (i) cash management services, (ii) purchases or sales of foreign exchange, securities or other financial products, (iii) computer/internet-based products and services, (iv) wire transfer of funds from or to the accounts of the Customer at the Bank, and (v) ACH transactions, and the Bank may charge any accounts of the Customer at the Bank for such products or services. 00005 Taxpayer I.D. Number (TIN) OWNER ("Customer") 633-44-1725 are hereby authorized (i) to effect loans, advances and renewals at any time for the Customer from the Bank; (ii) to sign and deliver any notes (with or without warrant of attorney to confess judgment) and evidences of indebtedness of the Customer; (iii) to request the Bank to issue letters of credit and to sign and deliver to the bank any agreements on behalf of the Customer to reimburse the Bank for all payments made and expenses incurred by it under such letters of credit and drafts drawn pursuant thereto; (iv) to sign and deliver any instruments or documents on behalf of the Customer guaranteeing, endorsing or securing the payment of any debts or obligations of any person, form or corporation to the Bank; (v) to pledge, assign, transfer, mortgage, grant a security interest in or otherwise hypothecate to the Bank any stock, securities, commercial paper, warehouse receipts and other documents of title, bills, accounts receivable, contract rights, inventory, equipment, real property, and any other investment 00006 Revolving Credits. Resolved that in connection with any extension of credit obtained by any of the persons authorized in Section 5 above, that permit the Customer to effect multiple advances or draws under such credit, any of the persons listed in Sections 5 (Loans and Extensions of Credit) and 3 (Withdrawals and Endorsements) Resolution for ALPHABET 00007 Telephonic and Facsimile Requests. Resolved that the Bank is authorized to take any action authorized hereunder based upon (i) the telephone request of any person purporting to be a person authorized to act hereunder, (ii) the signature of any person authorized to act hereunder that is delivered to the Bank by facsimile transmission, or (iii) the telex originated by any of such persons, tested in accordance with such testing : Tr R •d Ming or serVlCö n lent services, (ii) purchases or sales of foreig xlll) computerfinternet-based products and services, (iv) wir he Customer at the Bank, and (v) ACH transactions, and the Ba the Bank for such products or services. It. Resolved that any one of the following: procedures as may be established between the Customer and the Bank from time to time. General. Resolved that a certified copy of these resolutiEmployer Taxes                             70842745000        XXX-XX-1725       																																			
+                0        Rate                      																																			
+                                This period        YTD        Taxes / Deductions        Current        YTD        																																			
+                        Pay Schedulec        70842745000        70842745000        Federal Withholding        0        0        																																			
+                        Annually        70842745000        70842745000        Federal Withholding        0        0        																																			
+                        Units        Q1        TTM        Taxes / Deductions        Current        YTD        																																			
+                        Q3        70842745000        70842745000        Federal Withholding        0        0        																																			
+                        Q4        70842745000        70842745000        Federal Withholding        0        0        																																			
+                        Net Pay                                                    RUTA        0        0        																																			
+                                    70842745000                                 SUTA        0        0                             																																			
+                  20210418                                          FICA - Medicare        0        0                																																			
+                                                                  FICA - Social Security       0        8854  Earnings Statement                                       																																			
+Taxes / Deductions                Stub Number: 1                                                                 -                                                                																																			
+Taxable Maritial Status: Single        -                                                                                                                                        																																			
+TX: 28                                                                        																																			
+Federal 941 Deposit Report                                                                        																																			
+Report Range:       5/4/2022 - 6/4/2022 Local ID:                                                                         																																			
+EIN: 63-3441725       Local ID: TX:28       NO state Tax                                                                            																																			
+Employee NAumboeurn:T3                Form:         SS-4                                                																																			
+Description 5/4/2022 - 6/4/2022                                                                        																																			
+Payment Amount (Total) $9,246,754,678,763.00 Display All                                                                        																																			
+1. Social Security (Employee + Employer) $26,661.80                                                                        																																			
+2. Medicare (Employee + Employer) $861,193,422,444.20 Hourly                                                                        																																			
+3. Federal Income Tax $8,385,561,229,657.00                                                                        																																			
+Note: this Report is generated based on THE payroll data for your reference only. Pease contact IRS office for special cases such as late Payment, previous overpayment, penalty                                        We assigned you Employer Identification Number :        88-1303491                                                      Best Time To Call                  																																			
+Note: This report doesn't include the pay back amount of                                                                                       																																			
+Employer Customized Report                                                6.35-                        ________________________        ________________________          DATE OF THIS NOTICE:        2022-03-18																																			
+ADP                                                                        																																			
+Report Range5/4/2022 - 6/4/2022 88-1656496  Loca ID:      28 :l ID: 633441725 State: All Local ID: 00037305581 $2,267,700.00                                                                        																																			
+EIN:                Total Year to Date                                                        																																			
+Customized Report Amount                     																																			
+																																			
+																																			
+																																			
+																																			
+																																			
+																																			
+																																			
+																																			
+																																			
+																																			
+																																			
+																																			
+																																			
+																																			
+																																			
+																																			
+																																			
+																																			
+																																			
+																																			
+																																			
+																																			
+																																			
+																																			
+																																			
+																																			
+																																			
+																																			
+																																			
+																																			
 Skip to content
 
 Search or jump to…
@@ -2821,485 +3698,4 @@ jobs:
           git status | grep modified && git add -A && git commit -v -m "chore: Compile by GitHub Actions" && git push -v || true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-const : This Product Contains Sensitive Taxpayer Data  
- Request Date: 08-02-2022  Response Date: 08-02-2022  Tracking Number: 102398244811 
- Account Transcript  
- FORM NUMBER: 1040 TAX PERIOD: Dec. 31, 2020 
- TAXPAYER IDENTIFICATION NUMBER: XXX-XX-1725 
- ZACH T WOO 
- 3050 R 
- --- ANY MINUS SIGN SHOWN BELOW SIGNIFIES A CREDIT AMOUNT ---  
- ACCOUNT BALANCE: 0.00 
- ACCRUED INTEREST: 0.00 AS OF: Mar. 28, 2022  ACCRUED PENALTY: 0.00 AS OF: Mar. 28, 2022 
- ACCOUNT BALANCE 
- PLUS ACCRUALS 
- (this is not a 
- payoff amount): 0.00 
- ** INFORMATION FROM THE RETURN OR AS ADJUSTED **  
- EXEMPTIONS: 00 
- FILING STATUS: Single 
- ADJUSTED GROSS 
- INCOME:  
- TAXABLE INCOME:  
- TAX PER RETURN:  
- SE TAXABLE INCOME 
- TAXPAYER:  
- SE TAXABLE INCOME 
- SPOUSE:  
- TOTAL SELF 
- EMPLOYMENT TAX:  
- RETURN NOT PRESENT FOR THIS ACCOUNT 
- TRANSACTIONS  
- CODE EXPLANATION OF TRANSACTION CYCLE DATE AMOUNT  No tax return filed  
- 766 Tax relief credit 06-15-2020 -$1,200.00  846 Refund issued 06-05-2020 $1,200.00 
- 290 Additional tax assessed 20202205 06-15-2020 $0.00  76254-999-05099-0 
- 971 Notice issued 06-15-2020 $0.00  
-766 Tax relief credit 01-18-2021 -$600.00  846 Refund issued 01-06-2021 $600.00 
- 290 Additional tax assessed 20205302 01-18-2021 $0.00  76254-999-05055-0 
-766 Tax relief credit Estimated tax Over-payment 01-05-2021 -$9,000,000.00  
-662 Removed estimated tax payment 01-05-2021 -$9,000,000.00  
-740 Undelivered refund returned to IRS 01-18-2021 -$18000000.00 
- 767 Reduced or removed tax relief 01-18-2021 $18000000.00  credit 
- 971 Notice issued 03-28-2022 $0.00
- This Product Contains Sensitive Taxpayer Data 
-This Product Contains Sensitive Taxpayer Data  
- Request Date: 08-02-2022  Response Date: 08-02-2022  Tracking Number: 102398244811
- Account Transcript  
- FORM NUMBER: 1040 TAX PERIOD: Dec. 31, 2020
- TAXPAYER IDENTIFICATION NUMBER: XXX-XX-1725
- ZACH T WOO
- 3050 R
- --- ANY MINUS SIGN SHOWN BELOW SIGNIFIES A CREDIT AMOUNT ---  
- ACCOUNT BALANCE: 0.00
- ACCRUED INTEREST: 0.00 AS OF: Mar. 28, 2022  ACCRUED PENALTY: 0.00 AS OF: Mar. 28, 2022
- ACCOUNT BALANCE
- PLUS ACCRUALS
- (this is not a
- payoff amount): 0.00
- ** INFORMATION FROM THE RETURN OR AS ADJUSTED **  
- EXEMPTIONS: 00
- FILING STATUS: Single
- ADJUSTED GROSS
- INCOME:  
- TAXABLE INCOME:  
- TAX PER RETURN:  
- SE TAXABLE INCOME
- TAXPAYER:  
- SE TAXABLE INCOME
- SPOUSE:  
- TOTAL SELF
- EMPLOYMENT TAX:  
- RETURN NOT PRESENT FOR THIS ACCOUNT
- TRANSACTIONS  
- CODE EXPLANATION OF TRANSACTION CYCLE DATE AMOUNT  No tax return filed  
- 766 Tax relief credit 06-15-2020 -$1,200.00  846 Refund issued 06-05-2020 $1,200.00
- 290 Additional tax assessed 20202205 06-15-2020 $0.00  76254-999-05099-0
- 971 Notice issued 06-15-2020 $0.00  766 Tax relief credit 01-18-2021 -$600.00  846 Refund issued 01-06-2021 $600.00
- 290 Additional tax assessed 20205302 01-18-2021 $0.00  76254-999-05055-0
- 663 Estimated tax payment 01-05-2021 -$9,000,000.00  662 Removed estimated tax payment 01-05-2021 $9,000,000.00  740 Undelivered refund returned to IRS 01-18-2021 -$600.00
- 767 Reduced or removed tax relief 01-18-2021 $600.00  credit
- 971 Notice issued 03-28-2022 $0.00
- This Product Contains Sensitive Taxpayer Data
-Department of the Treasury --- Internal Revenue Service (99) OMB No.  1545-0074 IRS Use Only --- Do not write or staple in this space
-U.S. Individual Income Tax Return 1 Earnings Statement
-Pay :Period Beginning:2019-09-28
-DR Period Ending: 2021-09-29
-Pay Day: 2022-01-31
-Married ZACHRY T.
-5323
-DALLAS
-TX :NO State Income Tax :
-rate units year to date Other Benefits and
-112.2 674678000 75698871600 Information
-        Pto Balance
-        Total Work Hrs
-75698871600         Important Notes
-COMPANY PH Y: 650-253-0000
-BASIS OF PAY: BASIC/DILUTED EPS
-               
-               
-YOUR BASIC/DILUTED EPS RATE HAS BEEN CHANGED FROM 0.001 TO 112.20 PAR SHARE VALUE
-               
-       
-70842743866 70842743866
-       
-70842743866        
-
-CHECK NO.
-
-
-Zachry T.  Wood S.R.
-Checks and Other Deductions Amount
-Description I Items 5.41
-Debit Card Purchases 1 15.19
-POS Purchases 2 2,269,894.11
-ACH Deductions 5 82
-Service Charges and Fees 3 5.2
-Other Deductions 1 2,270,001.91
-Total 12
-
-
-
-
-Ledger balance Date Ledger balance Date Ledger balance
-107.8 8/3 2,267,621.92- 8/8 41.2
-78.08 8/4 42.08 8/10 2150.19-
-
-
-
-
-
-
-
-2,267,700.00 ACH Web Usataxpymt IRS 240461564036618 00022214903782823
-Corporate ACH Acctverify Roll By ADP 00022217906234115
-ACH Web Businessform Deluxeforbusiness 5072270 00022222905832355
-Corporate Ach Veryifyqbw Intuit 00022222909296656
-Corporate Ach Veryifyqbw Intuit 00022223912710109
-
-
-
-"Items":, "transaction_description":, "Reference 'number '= 'Amount":,'
-
-10 Service Charge Period Ending 07/29.2022
-36 Returned ItemFee (nsf) 00022214903782823
-36 Returned ItemFee (nsf) 00022222905832355
-
-TTM Q4 2021 Q3 2021 Q2 2021 Q1 2021 Q4 2020 Q3 2020 Q2 2020
-
-1.46698E+11 42337000000 37497000000 35653000000 31211000000 30818000000 25056000000 19744000000
-
-2.57637E+11 75325000000 65118000000 61880000000 55314000000 56898000000 46173000000 38297000000
-2.57637E+11 75325000000 65118000000 61880000000 55314000000 56898000000 46173000000 38297000000
-
--1.10939E+11 -32988000000 -27621000000 -26227000000 -24103000000 -26080000000 -21117000000 -18553000000
--1.10939E+11 -32988000000 -27621000000 -26227000000 -24103000000 -26080000000 -21117000000 -18553000000
-
--67984000000 -20452000000 -16466000000 -16292000000 -14774000000 -15167000000 -13843000000 -13361000000
--36422000000 -11744000000 -8772000000 -8617000000 -7289000000 -8145000000 -6987000000 -6486000000
--13510000000 -4140000000 -3256000000 -3341000000 -2773000000 -2831000000 -2756000000 -2585000000
--22912000000 -7604000000 -5516000000 -5276000000 -4516000000 -5314000000 -4231000000 -3901000000
--31562000000 -8708000000 -7694000000 -7675000000 -7485000000 -7022000000 -6856000000 -6875000000
--78714000000 21885000000 21031000000 19361000000 16437000000 15651000000 11213000000 6383000000
--12020000000 2517000000 2033000000 2624000000 4846000000 3038000000 2146000000 1894000000
--1153000000 261000000 310000000 313000000 269000000 333000000 412000000 420000000
-1153000000 261000000 310000000 313000000 269000000 333000000 412000000 420000000
-
--346000000 -117000000 -77000000 -76000000 -76000000 -53000000 -48000000 -13000000
-1499000000 378000000 387000000 389000000 345000000 386000000 460000000 433000000
-12364000000 2364000000 2207000000 2924000000 4869000000 3530000000 1957000000 1696000000
-12270000000 2478000000 2158000000 2883000000 4751000000 3262000000 2015000000 1842000000
-334000000 49000000 188000000 92000000 5000000 355000000 26000000 -54000000
--240000000 -163000000 -139000000 -51000000 113000000 -87000000 -84000000 -92000000
-0 0 0 0 0
-0 0 0 0 0
--1497000000 -108000000 -484000000 -613000000 -292000000 -825000000 -223000000 -222000000
-90734000000 24402000000 23064000000 21985000000 21283000000 18689000000 13359000000 8277000000
--14701000000 -3760000000 -4128000000 -3460000000 -3353000000 -3462000000 -2112000000 -1318000000
-76033000000 20642000000 18936000000 18525000000 17930000000 15227000000 11247000000 6959000000
-76033000000 20642000000 18936000000 18525000000 17930000000 15227000000 11247000000 6959000000
-76033000000 20642000000 18936000000 18525000000 17930000000 15227000000 11247000000 6959000000
-76033000000 20642000000 18936000000 18525000000 17930000000 15227000000 11247000000 6959000000
-76033000000 20642000000 18936000000 18525000000 17930000000 15227000000 11247000000 6959000000
-
-
-2.57637E+11 75325000000 65118000000 61880000000 55314000000 56898000000 46173000000 38297000000
-78714000000 21885000000 21031000000 19361000000 16437000000 15651000000 11213000000 6383000000
-0.162 0.179 0.157 0.158 0.158 0.159
-
-
-
-
-113.88 31.15 28.44 27.69 26.63 22.54 16.55 10.21
-113.88 31.12 28.44 27.69 26.63 22.46 16.55 10.21
-
-112.2 30.69 27.99 27.26 26.29 22.3 16.4 10.13
-112.2 30.67 27.99 27.26 26.29 22.23 16.4 10.13
-
-667650000 662664000 665758000 668958000 673220000 675581000 679449000 681768000
-677674000 672493000 676519000 679612000 682071000 682969000 685851000 687024000
-
-113.88 31.15 28.44 27.69 26.63 22.54 16.55 10.21
-112.2 30.69 27.99 27.26 26.29 22.3 16.4 10.13
-667650000 662664000 665758000 668958000 673220000 675581000 679449000 681768000
-677674000 672493000 676519000 679612000 682071000 682969000 685851000 687024000
-
-
-Current Value
-00022116905560149
-
-
-
-
-Q4 2021 Q3 2021 Q2 2021 Q1 2021 Q4 2020
-
-
-Zachry T. Wood Tax Period Total 
-Fed 941 Corporate 2007-09-30 
-24934000000 25539000000 37497000000 31211000000 30818000000
-24934000000 25539000000 21890000000 19289000000 22677000000
-24934000000 25539000000 21890000000 19289000000 22677000000
-20642000000 18936000000 18525000000 17930000000 15227000000 6517000000 3797000000 4236000000 2592000000 5748000000
-3439000000 3304000000 2945000000 2753000000 3725000000
-3439000000 3304000000 2945000000 2753000000 3725000000
-3215000000 3085000000 2730000000 2525000000 3539000000 224000000 219000000 215000000 228000000 186000000
-3954000000 3874000000 3803000000 3745000000 3223000000
-1616000000 -1287000000 379000000 1100000000 1670000000
--2478000000 -2158000000 -2883000000 -4751000000 -3262000000
--2478000000 -2158000000 -2883000000 -4751000000 -3262000000
--14000000 64000000 -8000000 -255000000 392000000
--2225000000 2806000000 -871000000 -1233000000 1702000000
--5819000000 -2409000000 -3661000000 2794000000 -5445000000
--5819000000 -2409000000 -3661000000 2794000000 -5445000000
--399000000 -1255000000 -199000000 7000000 -738000000
-6994000000 3157000000 4074000000 -4956000000 6938000000
-1157000000 238000000 -130000000 -982000000 963000000
-1157000000 238000000 -130000000 -982000000 963000000
-5837000000 2919000000 4204000000 -3974000000 5975000000
-368000000 272000000 -3000000 137000000 207000000
--3369000000 3041000000 -1082000000 785000000 740000000
-
--11016000000 -10050000000 -9074000000 -5383000000 -7281000000
--11016000000 -10050000000 -9074000000 -5383000000 -7281000000
--6383000000 -6819000000 -5496000000 -5942000000 -5479000000
--6383000000 -6819000000 -5496000000 -5942000000 -5479000000
-
--385000000 -259000000 -308000000 -1666000000 -370000000
--385000000 -259000000 -308000000 -1666000000 -370000000
--4348000000 -3360000000 -3293000000 2195000000 -1375000000
--40860000000 -35153000000 -24949000000 -37072000000 -36955000000
-36512000000 31793000000 21656000000 39267000000 35580000000
-100000000 388000000 23000000 30000000 -57000000
-
-
--16511000000 -15254000000 -15991000000 -13606000000 -9270000000
--16511000000 -15254000000 -15991000000 -13606000000 -9270000000
--13473000000 -12610000000 -12796000000 -11395000000 -7904000000
-13473000000 -12610000000 -12796000000 -11395000000 -7904000000
-
-115000000 -42000000 -1042000000 -37000000 -57000000
-115000000 -42000000 -1042000000 -37000000 -57000000
-6250000000 6350000000 6699000000 900000000 0
-6365000000 -6392000000 -7741000000 -937000000 -57000000
-2923000000 -2602000000 -2453000000 -2184000000 -1647000000
-
-
-0
-20945000000 23719000000 300000000 10000000 338000000000)
-25930000000 235000000000) 23630000000 26622000000 26465000000
-181000000000) -146000000000) -3175000000 300000000 6126000000
-2.3719E+13 2.363E+13 183000000 -143000000 210000000
-2774000000) 89000000 266220000000000) 26465000000000) 20129000000000)
-13412000000 157000000 -2992000000 6336000000
-2774000000 89000000 2.2677E+15 -4990000000
-
-
-
-
-Q4 2020 Q4  2019
-
-
-Dec. 31, 2020 Dec. 31, 2019
-
-182527 161857
-
-84732 71896
-27573 26018
-17946 18464
-11052 9551
-0 1697
-141303 127626
-41224 34231
-6858000000 5394
-22677000000 19289000000
-22677000000 19289000000
-22677000000 19289000000
-
-Fed 941 West Subsidiary 2007-09-30
-24934000000 25539000000 37497000000 31211000000 30818000000
-24934000000 25539000000 21890000000 19289000000 22677000000
-24934000000 25539000000 21890000000 19289000000 22677000000
-20642000000 18936000000 18525000000 17930000000 15227000000 6517000000 3797000000 4236000000 2592000000 5748000000
-3439000000 3304000000 2945000000 2753000000 3725000000
-3439000000 3304000000 2945000000 2753000000 3725000000
-3215000000 3085000000 2730000000 2525000000 3539000000 224000000 219000000 215000000 228000000 186000000
-3954000000 3874000000 3803000000 3745000000 3223000000
-1616000000 -1287000000 379000000 1100000000 1670000000
--2478000000 -2158000000 -2883000000 -4751000000 -3262000000
--2478000000 -2158000000 -2883000000 -4751000000 -3262000000
--14000000 64000000 -8000000 -255000000 392000000
--2225000000 2806000000 -871000000 -1233000000 1702000000
--5819000000 -2409000000 -3661000000 2794000000 -5445000000
--5819000000 -2409000000 -3661000000 2794000000 -5445000000
--399000000 -1255000000 -199000000 7000000 -738000000
-6994000000 3157000000 4074000000 -4956000000 6938000000
-1157000000 238000000 -130000000 -982000000 963000000
-1157000000 238000000 -130000000 -982000000 963000000
-5837000000 2919000000 4204000000 -3974000000 5975000000
-368000000 272000000 -3000000 137000000 207000000
--3369000000 3041000000 -1082000000 785000000 740000000
-
--11016000000 -10050000000 -9074000000 -5383000000 -7281000000
--11016000000 -10050000000 -9074000000 -5383000000 -7281000000
--6383000000 -6819000000 -5496000000 -5942000000 -5479000000
--6383000000 -6819000000 -5496000000 -5942000000 -5479000000
-
--385000000 -259000000 -308000000 -1666000000 -370000000
--385000000 -259000000 -308000000 -1666000000 -370000000
--4348000000 -3360000000 -3293000000 2195000000 -1375000000
--40860000000 -35153000000 -24949000000 -37072000000 -36955000000
-36512000000 31793000000 21656000000 39267000000 35580000000
-100000000 388000000 23000000 30000000 -57000000
-
-
--16511000000 -15254000000 -15991000000 -13606000000 -9270000000
--16511000000 -15254000000 -15991000000 -13606000000 -9270000000
--13473000000 -12610000000 -12796000000 -11395000000 -7904000000
-13473000000 -12610000000 -12796000000 -11395000000 -7904000000
-
-115000000 -42000000 -1042000000 -37000000 -57000000
-115000000 -42000000 -1042000000 -37000000 -57000000
-6250000000 6350000000 6699000000 900000000 0
-6365000000 -6392000000 -7741000000 -937000000 -57000000
-2923000000 -2602000000 -2453000000 -2184000000 -1647000000
-
-
-0
-20945000000 23719000000 300000000 10000000 338000000000)
-25930000000 235000000000) 23630000000 26622000000 26465000000
-181000000000) -146000000000) -3175000000 300000000 6126000000
-2.3719E+13 2.363E+13 183000000 -143000000 210000000
-2774000000) 89000000 266220000000000) 26465000000000) 20129000000000)
-13412000000 157000000 -2992000000 6336000000
-2774000000 89000000 2.2677E+15 -4990000000
-
-
-
-
-Q4 2020 Q4  2019
-
-
-Dec. 31, 2020 Dec. 31, 2019
-
-182527 161857
-
-84732 71896
-27573 26018
-17946 18464
-11052 9551
-0 1697
-141303 127626
-41224 34231
-6858000000 5394
-22677000000 19289000000
-22677000000 19289000000
-22677000000 19289000000
-
-Fed 941 South Subsidiary 2007-09-30 3215000000 3085000000 2730000000 2525000000 3539000000 224000000 219000000 215000000 228000000 186000000
-Fed 941 East Subsidiary 2007-09-30 
-Fed 941 Corp - Penalty 2007-09-30 
-Fed 940 Annual Unemp - Corp 2007-09-30 
-
-24934000000 25539000000 37497000000 31211000000 30818000000
-24934000000 25539000000 21890000000 19289000000 22677000000
-24934000000 25539000000 21890000000 19289000000 22677000000
-20642000000 18936000000 18525000000 17930000000 15227000000 6517000000 3797000000 4236000000 2592000000 5748000000
-3439000000 3304000000 2945000000 2753000000 3725000000
-3439000000 3304000000 2945000000 2753000000 3725000000
-3215000000 3085000000 2730000000 2525000000 3539000000 224000000 219000000 215000000 228000000 186000000
-3954000000 3874000000 3803000000 3745000000 3223000000
-1616000000 -1287000000 379000000 1100000000 1670000000
--2478000000 -2158000000 -2883000000 -4751000000 -3262000000
--2478000000 -2158000000 -2883000000 -4751000000 -3262000000
--14000000 64000000 -8000000 -255000000 392000000
--2225000000 2806000000 -871000000 -1233000000 1702000000
--5819000000 -2409000000 -3661000000 2794000000 -5445000000
--5819000000 -2409000000 -3661000000 2794000000 -5445000000
--399000000 -1255000000 -199000000 7000000 -738000000
-6994000000 3157000000 4074000000 -4956000000 6938000000
-1157000000 238000000 -130000000 -982000000 963000000
-1157000000 238000000 -130000000 -982000000 963000000
-5837000000 2919000000 4204000000 -3974000000 5975000000
-368000000 272000000 -3000000 137000000 207000000
--3369000000 3041000000 -1082000000 785000000 740000000
-
--11016000000 -10050000000 -9074000000 -5383000000 -7281000000
--11016000000 -10050000000 -9074000000 -5383000000 -7281000000
--6383000000 -6819000000 -5496000000 -5942000000 -5479000000
--6383000000 -6819000000 -5496000000 -5942000000 -5479000000
-
--385000000 -259000000 -308000000 -1666000000 -370000000
--385000000 -259000000 -308000000 -1666000000 -370000000
--4348000000 -3360000000 -3293000000 2195000000 -1375000000
--40860000000 -35153000000 -24949000000 -37072000000 -36955000000
-36512000000 31793000000 21656000000 39267000000 35580000000
-100000000 388000000 23000000 30000000 -57000000
-
-
--16511000000 -15254000000 -15991000000 -13606000000 -9270000000
--16511000000 -15254000000 -15991000000 -13606000000 -9270000000
--13473000000 -12610000000 -12796000000 -11395000000 -7904000000
-13473000000 -12610000000 -12796000000 -11395000000 -7904000000
-
-115000000 -42000000 -1042000000 -37000000 -57000000
-115000000 -42000000 -1042000000 -37000000 -57000000
-6250000000 6350000000 6699000000 900000000 0
-6365000000 -6392000000 -7741000000 -937000000 -57000000
-2923000000 -2602000000 -2453000000 -2184000000 -1647000000
-
-
-0
-20945000000 23719000000 300000000 10000000 338000000000)
-25930000000 235000000000) 23630000000 26622000000 26465000000
-181000000000) -146000000000) -3175000000 300000000 6126000000
-2.3719E+13 2.363E+13 183000000 -143000000 210000000
-2774000000) 89000000 266220000000000) 26465000000000) 20129000000000)
-13412000000 157000000 -2992000000 6336000000
-2774000000 89000000 2.2677E+15 -4990000000
-
-
-
-
-Q4 2020 Q4  2019
-
-
-Dec. 31, 2020 Dec. 31, 2019
-
-182527 161857
-
-84732 71896
-27573 26018
-17946 18464
-11052 9551
-0 1697
-141303 127626
-41224 34231
-6858000000 5394
-22677000000 19289000000
-22677000000 19289000000
-22677000000 19289000000
-
-
-
-
-
-
-
-
-
-IRS RECIEVED 37
-26-Apr
-LB Charlotte,
-ID: TxDL: 00037305581 Ssn: 633-44-1725       DoB:       1994-10-15                            
-"# ":Build::":,' "Job":,' "CONSTRUCTION":,'
-Return'' ':'' 'Run'' ' "''
-Name :Build-and-Deploy :
- Title :Automate 
-run-on: SLACK_channel
-SLACK_channel: (4999; 8333)
-install: slate.yml
-const: : Name
-Name: : Tests
-#Tests: : Run'@Travis.yml
-:Build:
-PUBLISH :
+const :
