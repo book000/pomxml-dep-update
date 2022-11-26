@@ -1,20 +1,6 @@
-From d1eda0819f17580e9c5c85cf4fb87510108bacb6 Mon Sep 17 00:00:00 2001
-From: "ZACHRY T WOODzachryiixixiiwood@gmail.com"
- <109656750+zakwarlord7@users.noreply.github.com>
-Date: Sat, 26 Nov 2022 04:24:00 -0600
-Subject: [PATCH] Update action.yml
-
----
- action.yml | 10559 +++++++++++++++++++++++++++++++++++++++++++++++++++
- 1 file changed, 10559 insertions(+)
-
-diff --git a/action.yml b/action.yml
-index 7e0f7b3..bcac274 100644
---- a/action.yml
-+++ b/action.yml
-@@ -14,3 +14,10562 @@ inputs:
- runs:
-   using: 'node16'
+DEPOSIT TICKET :
+NONEGOTIABLE :
+# :using: 'OPEN.json":, ::
    main: 'dist/index.js'
 +Skip to content
 +Search or jump to…
